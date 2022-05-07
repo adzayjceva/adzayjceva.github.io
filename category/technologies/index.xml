@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Technologies | Academic</title>
+    <link>https://example.com/category/technologies/</link>
+      <atom:link href="https://example.com/category/technologies/index.xml" rel="self" type="application/rss+xml" />
+    <description>Technologies</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 22:05:56 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Technologies</title>
+      <link>https://example.com/category/technologies/</link>
+    </image>
+    
+    <item>
+      <title>Управление версиями. Git.</title>
+      <link>https://example.com/post/gitvers_control/gitvers_control/</link>
+      <pubDate>Sat, 07 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/post/gitvers_control/gitvers_control/</guid>
+      <description>&lt;div style=&#34;text-align:justify&#34;&gt;Система контроля версий: почему это важно? Контроль версий, также известный как управление исходным кодом, — это практика отслеживания изменений программного кода и управления ими. Системы контроля версий (СКВ) — это программные инструменты, помогающие командам разработчиков управлять изменениями в исходном коде с течением времени. В свете усложнения сред разработки они помогают командам разработчиков работать быстрее и эффективнее. СКВ позволяет позже вернуться к любой желаемой вами версии.&lt;/div&gt;
+&lt;div style=&#34;text-align:justify&#34;&gt;Программное обеспечение контроля версий отслеживает все вносимые в код изменения в специальной базе данных. При обнаружении ошибки разработчики могут вернуться назад и выполнить сравнение с более ранними версиями кода для исправления ошибок, сводя к минимуму проблемы для всех участников команды. Практически во всех программных проектах исходный код является сокровищем: это ценный ресурс, который необходимо беречь. Для большинства команд разработчиков программного обеспечения исходный код — это репозиторий бесценных знаний и понимания проблемной области, которые они скрупулезно собирали и совершенствовали. Контроль версий защищает исходный код от катастрофических сбоев, от случайных ухудшений, вызванных человеческим фактором, а также от непредвиденных последствий.&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
