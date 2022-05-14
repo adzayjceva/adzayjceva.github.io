@@ -5,12 +5,23 @@
     <link>https://example.com/tag/life/</link>
       <atom:link href="https://example.com/tag/life/index.xml" rel="self" type="application/rss+xml" />
     <description>life</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 07 May 2022 22:05:56 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 22:05:56 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>life</title>
       <link>https://example.com/tag/life/</link>
     </image>
+    
+    <item>
+      <title>Мой второй пост</title>
+      <link>https://example.com/post/post2/</link>
+      <pubDate>Sat, 14 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/post/post2/</guid>
+      <description>&lt;p&gt;На этой неделе я обчиталась, поучилась и поделала домашние работы по университетским предметам, как и на прошлой неделе.
+Отпраздновала мамин день рождения, сделала ей открытку впервые в формате графического файла.
+Открыла много нового для себя из книги. Это касалось работы нашего мозга, наших убеждений и того, как на них можно влиять.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Мой первый пост</title>

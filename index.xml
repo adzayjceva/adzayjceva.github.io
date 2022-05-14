@@ -33,6 +33,56 @@
     </item>
     
     <item>
+      <title>Легковесные языки разметки.</title>
+      <link>https://example.com/post/langs/</link>
+      <pubDate>Sat, 14 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/post/langs/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Общая информация&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Предназначены для простого и быстрого добавления форматирования в текстовые данные.&lt;/li&gt;
+&lt;li&gt;Особенности:
+&lt;ul&gt;
+&lt;li&gt;Минимум функций.&lt;/li&gt;
+&lt;li&gt;Небольшой набор поддерживаемых тегов.&lt;/li&gt;
+&lt;li&gt;Легки в освоении.&lt;/li&gt;
+&lt;li&gt;Исходный текст на таком языке читается с такой же лёгкостью, как и готовый документ.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Представители&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;Org-mode&lt;/li&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;reStructuredText&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;li&gt;Вики-разметка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Легковесные языки для записи математических выражений&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;AsciiMath&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой второй пост</title>
+      <link>https://example.com/post/post2/</link>
+      <pubDate>Sat, 14 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/post/post2/</guid>
+      <description>&lt;p&gt;На этой неделе я обчиталась, поучилась и поделала домашние работы по университетским предметам, как и на прошлой неделе.
+Отпраздновала мамин день рождения, сделала ей открытку впервые в формате графического файла.
+Открыла много нового для себя из книги. Это касалось работы нашего мозга, наших убеждений и того, как на них можно влиять.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Мой первый пост</title>
       <link>https://example.com/post/post1/post1/</link>
       <pubDate>Sat, 07 May 2022 22:05:56 +0300</pubDate>

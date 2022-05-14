@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>computer-science | Academic</title>
+    <link>https://example.com/tag/computer-science/</link>
+      <atom:link href="https://example.com/tag/computer-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>computer-science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 14 May 2022 22:05:56 +0300</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>computer-science</title>
+      <link>https://example.com/tag/computer-science/</link>
+    </image>
+    
+    <item>
+      <title>Легковесные языки разметки.</title>
+      <link>https://example.com/post/langs/</link>
+      <pubDate>Sat, 14 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/post/langs/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Общая информация&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Предназначены для простого и быстрого добавления форматирования в текстовые данные.&lt;/li&gt;
+&lt;li&gt;Особенности:
+&lt;ul&gt;
+&lt;li&gt;Минимум функций.&lt;/li&gt;
+&lt;li&gt;Небольшой набор поддерживаемых тегов.&lt;/li&gt;
+&lt;li&gt;Легки в освоении.&lt;/li&gt;
+&lt;li&gt;Исходный текст на таком языке читается с такой же лёгкостью, как и готовый документ.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Представители&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;Org-mode&lt;/li&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;reStructuredText&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;li&gt;Вики-разметка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Легковесные языки для записи математических выражений&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;AsciiMath&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
