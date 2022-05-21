@@ -10,25 +10,31 @@
   <url>
     <loc>https://example.com/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/categories/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/categories/</loc><lastmod>2022-05-21T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/computer-science/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/computer-science/</loc><lastmod>2022-05-21T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tag/life/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tag/life/</loc><lastmod>2022-05-21T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/category/lifestyle/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/category/lifestyle/</loc><lastmod>2022-05-21T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/post/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/post/</loc><lastmod>2022-05-21T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/tags/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/tags/</loc><lastmod>2022-05-21T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://example.com/category/technologies/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://example.com/category/technologies/</loc><lastmod>2022-05-21T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/post-3/</loc><lastmod>2022-05-21T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/report_fixes/</loc><lastmod>2022-05-21T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/langs/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/post2/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/tag/git/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://example.com/post/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://example.com/post/post1/post1/</loc><lastmod>2022-05-07T22:05:56+03:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
