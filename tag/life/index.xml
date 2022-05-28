@@ -5,7 +5,7 @@
     <link>https://example.com/tag/life/</link>
       <atom:link href="https://example.com/tag/life/index.xml" rel="self" type="application/rss+xml" />
     <description>life</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 21 May 2022 22:05:56 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 22:05:56 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>life</title>
@@ -13,10 +13,20 @@
     </image>
     
     <item>
+      <title>Мой четвёртый пост</title>
+      <link>https://example.com/post/post4/</link>
+      <pubDate>Sat, 28 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/post/post4/</guid>
+      <description>&lt;p&gt;На этой неделе я приходила в себя и готовилась к предстоящим контрольным и экзаментам. Всем, кого они тоже ждут - желаю удачи и успеха!
+Ещё на этой неделе я праздновала бабушкин день рождения.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Мой третий пост</title>
-      <link>https://example.com/post/post-3/</link>
+      <link>https://example.com/post/post3/</link>
       <pubDate>Sat, 21 May 2022 22:05:56 +0300</pubDate>
-      <guid>https://example.com/post/post-3/</guid>
+      <guid>https://example.com/post/post3/</guid>
       <description>&lt;p&gt;На этой неделе я написала 2 контрольных работы: по математической логике и по математическому анализу. А в конце недели я отсыпалась. На занятиях по английскому репетировали устный экзамен, а в субботу написали тест по 5 юниту.&lt;/p&gt;
 </description>
     </item>

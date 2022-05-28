@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JS | Academic</title>
+    <link>https://example.com/tag/js/</link>
+      <atom:link href="https://example.com/tag/js/index.xml" rel="self" type="application/rss+xml" />
+    <description>JS</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>JS</title>
+      <link>https://example.com/tag/js/</link>
+    </image>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://example.com/project/javascript/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/project/javascript/</guid>
+      <description>&lt;p&gt;Изначально JavaScript был создан, чтобы «сделать веб-страницы живыми».&lt;/p&gt;
+&lt;p&gt;Программы на этом языке называются скриптами. Они могут встраиваться в HTML и выполняться автоматически при загрузке веб-страницы.&lt;/p&gt;
+&lt;p&gt;Скрипты распространяются и выполняются, как простой текст. Им не нужна специальная подготовка или компиляция для запуска.&lt;/p&gt;
+&lt;p&gt;Это отличает JavaScript от другого языка – Java.&lt;/p&gt;
+&lt;p&gt;Когда JavaScript создавался, у него было другое имя – «LiveScript». Однако, язык Java был очень популярен в то время, и было решено, что позиционирование JavaScript как «младшего брата» Java будет полезно.&lt;/p&gt;
+&lt;p&gt;Со временем JavaScript стал полностью независимым языком со своей собственной спецификацией, называющейся ECMAScript, и сейчас не имеет никакого отношения к Java.&lt;/p&gt;
+&lt;p&gt;Сегодня JavaScript может выполняться не только в браузере, но и на сервере или на любом другом устройстве, которое имеет специальную программу, называющуюся «движком» JavaScript.&lt;/p&gt;
+&lt;p&gt;У браузера есть собственный движок, который иногда называют «виртуальная машина JavaScript».&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://example.com/slides/javascript/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/javascript/</guid>
+      <description>&lt;h1 id=&#34;javascript&#34;&gt;JavaScript&lt;/h1&gt;
+&lt;p&gt;Введение&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;для-чего-был-создан&#34;&gt;Для чего был создан&lt;/h2&gt;
+&lt;p&gt;Изначально JavaScript был создан, чтобы «сделать веб-страницы живыми».&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;программы-на-этом-языке-называются&#34;&gt;Программы на этом языке называются&lt;/h2&gt;
+&lt;p&gt;скриптами. Они могут встраиваться в HTML и выполняться автоматически при загрузке веб-страницы.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;где-javascript-может-выполняться&#34;&gt;Где JavaScript может выполняться?&lt;/h2&gt;
+&lt;p&gt;Сегодня JavaScript может выполняться не только в браузере, но и на сервере или на любом другом устройстве, которое имеет специальную программу, называющуюся «движком» JavaScript.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

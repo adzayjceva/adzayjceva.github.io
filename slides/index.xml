@@ -5,7 +5,47 @@
     <link>https://example.com/slides/</link>
       <atom:link href="https://example.com/slides/index.xml" rel="self" type="application/rss+xml" />
     <description>Slides</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 05 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 00:00:00 +0000</lastBuildDate>
+    <item>
+      <title>JavaScript</title>
+      <link>https://example.com/slides/javascript/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/javascript/</guid>
+      <description>&lt;h1 id=&#34;javascript&#34;&gt;JavaScript&lt;/h1&gt;
+&lt;p&gt;Введение&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;для-чего-был-создан&#34;&gt;Для чего был создан&lt;/h2&gt;
+&lt;p&gt;Изначально JavaScript был создан, чтобы «сделать веб-страницы живыми».&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;программы-на-этом-языке-называются&#34;&gt;Программы на этом языке называются&lt;/h2&gt;
+&lt;p&gt;скриптами. Они могут встраиваться в HTML и выполняться автоматически при загрузке веб-страницы.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;где-javascript-может-выполняться&#34;&gt;Где JavaScript может выполняться?&lt;/h2&gt;
+&lt;p&gt;Сегодня JavaScript может выполняться не только в браузере, но и на сервере или на любом другом устройстве, которое имеет специальную программу, называющуюся «движком» JavaScript.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пргораммирование</title>
+      <link>https://example.com/slides/programming/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/slides/programming/</guid>
+      <description>&lt;h1 id=&#34;пргораммирование&#34;&gt;Пргораммирование&lt;/h1&gt;
+&lt;p&gt;Введение&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;слово-программирование&#34;&gt;Слово «Программирование»&lt;/h2&gt;
+&lt;p&gt;Сегодня слово «Программирование» можно увидеть / услышать, как в какой-нибудь вирусной рекламе в социальной сети, так и в литературном или кинематографическом произведении. Однако что такое программирование и кто такие программисты? Не мудрствуя лукаво, можно поступить как матерый кодер и загуглить новое слово.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;программирование--это&#34;&gt;Программирование — это&lt;/h2&gt;
+&lt;p&gt;процесс создания компьютерных программ. Расшифровать это определение можно следующим образом. Программирование есть ничто иное, как объяснение машине что, в каком виде и как нужно получить пользователю. То есть это своеобразное искусство перевода пожеланий человека на язык машины.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;основная-идея&#34;&gt;Основная идея&lt;/h2&gt;
+&lt;p&gt;заключается в том, чтобы составить алгоритм и перевести его на язык программирования. Гуру разработки часто рекомендуют начать разработку программы с ответа на вопрос: «Можно ли реализовать эту задачу программно?».&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
     <item>
       <title>Slides</title>
       <link>https://example.com/slides/example/</link>
