@@ -13,32 +13,32 @@
     </image>
     
     <item>
-      <title>Пргораммирование</title>
+      <title>Programming</title>
       <link>https://example.com/project/programming/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/programming/</guid>
-      <description>&lt;p&gt;Сегодня слово «Программирование» можно увидеть / услышать, как в какой-нибудь вирусной рекламе в социальной сети, так и в литературном или кинематографическом произведении. Однако что такое программирование и кто такие программисты? Не мудрствуя лукаво, можно поступить как матерый кодер и загуглить новое слово.&lt;/p&gt;
-&lt;p&gt;Согласно многочисленным определениям, программирование — это процесс создания компьютерных программ. Расшифровать это определение можно следующим образом. Программирование есть ничто иное, как объяснение машине что, в каком виде и как нужно получить пользователю. То есть это своеобразное искусство перевода пожеланий человека на язык машины.&lt;/p&gt;
-&lt;p&gt;Основная идея заключается в том, чтобы составить алгоритм и перевести его на язык программирования. Гуру разработки часто рекомендуют начать разработку программы с ответа на вопрос: «Можно ли реализовать эту задачу программно?». К примеру, даже сегодня мы не можем заставить компьютер предсказать, что будет через несколько дней. И пусть этот пример не совсем корректен, потому как данная задача невыполнима в принципе. Однако, если сузить постановку задачи до предсказания поведения какой-нибудь валюты на бирже — подобная задача решается при помощи достаточного сложного алгоритма и большой базы экспериментальных данных.&lt;/p&gt;
+      <description>&lt;p&gt;Today, the word &amp;ldquo;Programming&amp;rdquo; can be seen / heard, both in some viral advertisement on a social network, and in a literary or cinematic work. However, what is programming and who are programmers? Without further ado, you can act like a seasoned coder and Google a new word.&lt;/p&gt;
+&lt;p&gt;According to numerous definitions, programming is the process of creating computer programs. This definition can be deciphered as follows. Programming is nothing more than explaining to the machine what, in what form and how the user needs to get it. That is, it is a kind of art of translating a person&amp;rsquo;s wishes into the language of a machine.&lt;/p&gt;
+&lt;p&gt;The main idea is to make an algorithm and translate it into a programming language. Development gurus often recommend starting program development by answering the question: &amp;ldquo;Is it possible to implement this task programmatically?&amp;rdquo;. For example, even today we cannot force the computer to predict what will happen in a few days. And let this example not be completely correct, because this task is impossible in principle. However, if we narrow down the problem statement to predicting the behavior of some currency on the stock exchange, such a problem is solved with the help of a sufficiently complex algorithm and a large database of experimental data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Пргораммирование</title>
+      <title>Programming</title>
       <link>https://example.com/slides/programming/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/slides/programming/</guid>
-      <description>&lt;h1 id=&#34;пргораммирование&#34;&gt;Пргораммирование&lt;/h1&gt;
-&lt;p&gt;Введение&lt;/p&gt;
+      <description>&lt;h1 id=&#34;programming&#34;&gt;Programming&lt;/h1&gt;
+&lt;p&gt;Introduction&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;слово-программирование&#34;&gt;Слово «Программирование»&lt;/h2&gt;
-&lt;p&gt;Сегодня слово «Программирование» можно увидеть / услышать, как в какой-нибудь вирусной рекламе в социальной сети, так и в литературном или кинематографическом произведении. Однако что такое программирование и кто такие программисты? Не мудрствуя лукаво, можно поступить как матерый кодер и загуглить новое слово.&lt;/p&gt;
+&lt;h2 id=&#34;the-word-programming&#34;&gt;The word &amp;ldquo;Programming&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Today, the word &amp;ldquo;Programming&amp;rdquo; can be seen / heard, both in some viral advertisement on a social network, and in a literary or cinematic work. However, what is programming and who are programmers? Without further ado, you can act like a seasoned coder and Google a new word.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;программирование--это&#34;&gt;Программирование — это&lt;/h2&gt;
-&lt;p&gt;процесс создания компьютерных программ. Расшифровать это определение можно следующим образом. Программирование есть ничто иное, как объяснение машине что, в каком виде и как нужно получить пользователю. То есть это своеобразное искусство перевода пожеланий человека на язык машины.&lt;/p&gt;
+&lt;h2 id=&#34;programming-is&#34;&gt;Programming is&lt;/h2&gt;
+&lt;p&gt;the process of creating computer programs. This definition can be deciphered as follows. Programming is nothing more than explaining to the machine what, in what form and how the user needs to get it. That is, it is a kind of art of translating a person&amp;rsquo;s wishes into the language of a machine.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;основная-идея&#34;&gt;Основная идея&lt;/h2&gt;
-&lt;p&gt;заключается в том, чтобы составить алгоритм и перевести его на язык программирования. Гуру разработки часто рекомендуют начать разработку программы с ответа на вопрос: «Можно ли реализовать эту задачу программно?».&lt;/p&gt;
+&lt;h2 id=&#34;the-main-idea&#34;&gt;The main idea&lt;/h2&gt;
+&lt;p&gt;The idea is to make an algorithm and translate it into a programming language. Development gurus often recommend starting program development by answering the question: &amp;ldquo;Is it possible to implement this task programmatically?&amp;rdquo;.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>

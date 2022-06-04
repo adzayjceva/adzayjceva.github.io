@@ -33,27 +33,129 @@
     </item>
     
     <item>
-      <title>Мой четвёртый пост</title>
-      <link>https://example.com/post/post4/</link>
-      <pubDate>Sat, 28 May 2022 22:05:56 +0300</pubDate>
-      <guid>https://example.com/post/post4/</guid>
-      <description>&lt;p&gt;На этой неделе я приходила в себя и готовилась к предстоящим контрольным и экзаментам. Всем, кого они тоже ждут - желаю удачи и успеха!
-Ещё на этой неделе я праздновала бабушкин день рождения.&lt;/p&gt;
+      <title>How to learn English to work in IT.</title>
+      <link>https://example.com/post/it_learn_en/</link>
+      <pubDate>Sat, 04 Jun 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/post/it_learn_en/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Start with vocabulary&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;A specialist from the fields of programming or analytics needs to know a huge amount of specialized vocabulary. And it doesn&amp;rsquo;t matter what language you work with, Python or C++ - there are a lot of terms and they need to be studied. The programming languages themselves are also based on English vocabulary.&lt;/p&gt;
+&lt;p&gt;If you count, the dictionary on the subject of computers and programming contains about 1000-1500 words. For example, the basic general dictionary, which allows you to communicate quite comfortably in English, includes only 4000-5000 words.&lt;/p&gt;
+&lt;p&gt;You will have to study a lot. But if the vocabulary, which is directly related to functions and variables, is remembered in the process of writing by itself, then to communicate with foreign colleagues and read guides, you need to remember the match.&lt;/p&gt;
+&lt;p&gt;It is best to study vocabulary in special applications. Here are some of the most effective and easy to use:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Rare words&lt;/li&gt;
+&lt;li&gt;Anki&lt;/li&gt;
+&lt;li&gt;Memriz&lt;/li&gt;
+&lt;li&gt;Hi, Let&amp;rsquo;s Talk&lt;/li&gt;
+&lt;li&gt;Easy Ten&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Choose thematic collections of words and add them to the dictionary. It is worth paying attention to the groups of words Networking, IT slang, English for developers, English for digital technologies, Hacking. Also be sure to choose a collection of words for your specialty. For example, English for system administrators.&lt;/p&gt;
+&lt;p&gt;30 minutes of classes in the app per day — and in 3 months you can learn up to 800 words. This is quite enough to understand technical texts and conversations with specialists of any complexity.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learn the construction of complex structures for TK&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;The main difficulty of technical English is how to buildnew offers. It has long and sometimes brain-breaking constructions that are difficult to understand without appropriate experience. Take, for example, a short description of one of the Microsoft tools:&lt;/p&gt;
+&lt;p&gt;Cloud Security Analytics: Using big data, machine learning and Microsoft&amp;rsquo;s unique optics in the Windows ecosystem, enterprise cloud products (such as Office 365) and online resources, behavioral signals are transformed into analytical data, detection and recommended responses to complex threats.&lt;/p&gt;
+&lt;p&gt;It is difficult for an untrained person to perceive long texts with a dry pitch and complex turns. But it is impossible to convey technical information in any other way. TK for various tasks in it is written in such English, so you understand either in advance or make a large number of edits to your work due to a misunderstanding of the task.&lt;/p&gt;
+&lt;p&gt;Now there are a huge number of English courses that help to improve technical English. In most cases, they go 1-2 months and talk about all the nuances of grammar.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Constantly work with a live language&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Learning English gives us a skill, not just static knowledge, so like any skill, it needs to be constantly trained. The easiest ways to do this are to listen to podcasts, read thematic forums and professional blogs.&lt;/p&gt;
+&lt;p&gt;And the newer the information in them, the better. The language is constantly changing, and professional slang is especially sensitive to changes. Some phrases, terms and designations become obsolete, new ones appear instead. And it is important to constantly monitor this.&lt;/p&gt;
+&lt;p&gt;In addition, with the help of good podcasts and guides, you can improve not only your English, but also your professional skills. We have put together a small selection that will help with this:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Podcasts:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Shepherd&amp;rsquo;s Code&lt;/li&gt;
+&lt;li&gt;Radio software development&lt;/li&gt;
+&lt;li&gt;Reset programming settings&lt;/li&gt;
+&lt;li&gt;Weekly flossing&lt;/li&gt;
+&lt;li&gt;This Is The Life Of Developers&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Forums:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stack overflow&lt;/li&gt;
+&lt;li&gt;Stack exchange&lt;/li&gt;
+&lt;li&gt;Developer Forum&lt;/li&gt;
+&lt;li&gt;Programming on Reddit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Blogs:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DWB&lt;/li&gt;
+&lt;li&gt;WebDevBlog&lt;/li&gt;
+&lt;li&gt;Cats That Encode&lt;/li&gt;
+&lt;li&gt;Code wall&lt;/li&gt;
+&lt;li&gt;Future processing&lt;/li&gt;
+&lt;li&gt;Ray Wenderlich&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;TV series and movies:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Silicon Valley (Silicon Valley)&lt;/li&gt;
+&lt;li&gt;Mr. Robot (Mr. Robot)&lt;/li&gt;
+&lt;li&gt;Social Network (Social Network)&lt;/li&gt;
+&lt;li&gt;Black Mirror (Black Mirror)&lt;/li&gt;
+&lt;li&gt;In the field of view (Interested person)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;TED Talk Presentations:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Thomas Suarez: 12-year-old application developer&lt;/li&gt;
+&lt;li&gt;Sergey Brin and Larry Page: how Google was born&lt;/li&gt;
+&lt;li&gt;Jane MacGonigal: the gaming industry can make the world a better place&lt;/li&gt;
+&lt;li&gt;Eric Topol: The wireless future of medicine&lt;/li&gt;
+&lt;li&gt;Kevin Kelly: How technology is developing&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Learn humor&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;It is humor. Not individual jokes and puns, but the principles of constructing their constructions in English. It may seem that the advice is strange, but it allows you to achieve two goals at once:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;You are learning the language at a deep level. The very principles of joke formation will show you a huge number of nuances of the language that you didn&amp;rsquo;t know about before. This will improve your understanding of English in general, which will have a positive impact on literacy.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;And if you know how to make funny jokes on the topic and relieve tension, then you will be a welcome guest in any team. It will be easier for you to find a common language with foreign colleagues and project managers. Such soft skills are very appreciated in the team.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And as a bonus, after a close study of English humor, you will be able to understand a huge number of references and subtle jokes in movies and TV series. Not a profile skill, of course, but it won&amp;rsquo;t be superfluous. The main thing is to study it every day, without breaks and weekends. Just half an hour of classes every day will be many times more effective than five hours once a week.&lt;/p&gt;
+&lt;p&gt;There are actually very few IT specialists who know English at an excellent level. Most of them are those who work in international companies. But there are also areas in which knowledge of ordinary English and technical is a key skill. For example, Data Science. Most of the information about machine learning and big data is available only in English.
+3 tips for web development from the head of the company Evgeny Keenetic Korytov, which help not only to start studying, but also not to quit halfway&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Choose the original&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I choose the original. Translation is always an interpretation and adaptation to the language you speak, so some of the information may be lost or distorted.&lt;/p&gt;
+&lt;p&gt;I always watch movies in the original and without subtitles. It is important that it is without subtitles, otherwise you can read the text all the time and not concentrate on the movie. Most often you understand the meaning from the context of what is said. You have visual confirmation — from the plot and the behavior of the characters, you can guess what they were talking about. At first it was difficult, sometimes nothing is clear and I wanted to give up everything. But, just as children learn to speak in the environment of the language, so you eventually begin to understand. Hence the second principle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Surround yourself with what you want to do&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;And this is not only a psychological trick when you put dumbbells on the aisle, so that after passing by you can remember and go to physical education. I have set up all my phones, laptops and other equipment in English, I use Google in English to search the Internet. Email-subscription in English, podcasts, etc. When you make a mistake a couple of times with parking due to a misunderstanding of the language, you will immediately learn all the words.&lt;/p&gt;
+&lt;p&gt;But in order not to break down at some point of complete misunderstanding, I use assistants. In addition to Google Translate, I have set up a quick search for words from the context menu of the mouse. Apple has the ability to set up different dictionaries in all its devices to search for the meaning of a word anywhere. It doesn&amp;rsquo;t matter if you are in a Telegram or on a website, or reading mail in PDF format. An alternative may be an extension to the browser so that incomprehensible words are translated into your native language when highlighted. It can also be customized.&lt;/p&gt;
+&lt;p&gt;Additionally, I went to study with an English-speaking teacher. It&amp;rsquo;s difficult, but it&amp;rsquo;s also motivating. There are also conversational clubs. Even if you can&amp;rsquo;t speak them right away because of the embarrassment of your level, you will eventually get involved. Conversational clubs of interest come in best of all. And this is the third principle.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Find an interest&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I searched for a long time, but then I realized that I was really interested in what my idols were singing and talking about. Queen, AC/DC, Led Zeppelin, the original voice of actors in movies — especially when they sing. Well, or listen to Uncle Bob - Uncle Bob - Robert Martin. All this is like watching the source code of a library that you use in your work — the original, and that&amp;rsquo;s the whole point.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Языки научного программирования.</title>
+      <title>My fifth post</title>
+      <link>https://example.com/post/post5/</link>
+      <pubDate>Sat, 04 Jun 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/post/post5/</guid>
+      <description>&lt;p&gt;This week I wrote 2 test papers: on mathematical logic and on mathematical analysis. I also passed an oral exam in English and gave one of the last lectures on mathematical analysis on Friday. At the end of the week, I did the last laboratory and the last stage of the individual project. And after all that, I rested.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My fourth post</title>
+      <link>https://example.com/post/post4/</link>
+      <pubDate>Sat, 28 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/post/post4/</guid>
+      <description>&lt;p&gt;This week I was recovering and preparing for the upcoming tests and exams. I wish good luck and success to everyone they are also waiting for!
+Even this week I celebrated my grandmother&amp;rsquo;s birthday.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Scientific programming languages.</title>
       <link>https://example.com/post/nauch_prog/</link>
       <pubDate>Sat, 28 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/nauch_prog/</guid>
-      <description>&lt;p&gt;Научное программирование — высокоориентированный стиль программирования для научных расчетов. От других видов программирования его отличают предельные корректность и стабильность конечного продукта, строгое разделение научной и интерфейсной частей, индивидуальность алгоритмов, а также преобладание эффективности над универсальностью.&lt;/p&gt;
-&lt;p&gt;Научное программирование лежит в основе любого современного глобального исследования. Все передовые технологии — от квантовых компьютеров до космических программ — были бы невозможны без специалистов в области научного программирования, способных предоставить ученым надежный и точный инструмент для совершения открытий.&lt;/p&gt;
-&lt;p&gt;Ряд отраслей науки непосредственно зависят от уровня развития научного программирования. Так, своего исполнения ждут беспилотный транспорт, «умные» системы управления городским и сельским хозяйством, фондовыми биржами; ждут робототехника, генная инженерия, искусственный интеллект, превосходящий возможности человека.&lt;/p&gt;
-&lt;p&gt;Для научных вычислений чаще всего используют языки C++ и Java. C++ также является одним из самых популярных в мире языков. При помощи программного кода этого языка можно делать различные арифметические операции. Его можно использовать для моделирования и расчётов.&lt;/p&gt;
-&lt;p&gt;Ученые используют различные языки программирования, выбор которых зависит от типа задачи и предпочтений автора. Исторически первым высокоуровневым языком программирования является Fortran, на нем написано много отлаженных библиотек математической статистики и библиотек для решения дифференциальных уравнений, что актуально для экономики и биологии соответственно.&lt;/p&gt;
-&lt;p&gt;Более простым синтаксисом обладает Python, также подходящий для программирования математических вычислений. Язык Python привлекается для обработки данных в математике, физике, экономике, биологии, химии и умеет работать с некоторыми другими «научными» языками: Fortran, C++, C#.&lt;/p&gt;
-&lt;p&gt;В свою очередь C# позволяет программировать на платформе .NET, адаптировать программу к общеязыковой исполняющей среде (CLR) и ускорить разработку в рамках оперативных научных сессий.&lt;/p&gt;
+      <description>&lt;p&gt;Scientific programming is a highly oriented programming style for scientific calculations. It is distinguished from other types of programming by the extreme correctness and stability of the final product, the strict separation of the scientific and interface parts, the individuality of algorithms, as well as the predominance of efficiency over versatility.&lt;/p&gt;
+&lt;p&gt;Scientific programming is at the heart of any modern global research. All advanced technologies — from quantum computers to space programs — would be impossible without specialists in the field of scientific programming, able to provide scientists with a reliable and accurate tool for making discoveries.&lt;/p&gt;
+&lt;p&gt;A number of branches of science directly depend on the level of development of scientific programming. So, unmanned vehicles, &amp;ldquo;smart&amp;rdquo; control systems for urban and agricultural management, stock exchanges are waiting for their execution; robotics, genetic engineering, artificial intelligence that surpasses human capabilities are waiting for them.&lt;/p&gt;
+&lt;p&gt;For scientific computing, C++ and Java are most often used. C++ is also one of the most popular languages in the world. With the help of the program code of this language, you can do various arithmetic operations. It can be used for modeling and calculations.&lt;/p&gt;
+&lt;p&gt;Scientists use various programming languages, the choice of which depends on the type of task and the preferences of the author. Historically, the first high-level programming language is Fortran, it has written many well-established libraries of mathematical statistics and libraries for solving differential equations, which is relevant for economics and biology, respectively.&lt;/p&gt;
+&lt;p&gt;Python has a simpler syntax, which is also suitable for programming mathematical calculations. Python is used for data processing in mathematics, physics, economics, biology, chemistry and is able to work with some other &amp;ldquo;scientific&amp;rdquo; languages: Fortran, C++, C#.&lt;/p&gt;
+&lt;p&gt;In turn, C# allows programming on the platform.NET, adapt the program to the common language runtime environment (CLR) and accelerate development in the framework of operational scientific sessions.&lt;/p&gt;
 </description>
     </item>
     
@@ -62,14 +164,14 @@
       <link>https://example.com/project/javascript/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/javascript/</guid>
-      <description>&lt;p&gt;Изначально JavaScript был создан, чтобы «сделать веб-страницы живыми».&lt;/p&gt;
-&lt;p&gt;Программы на этом языке называются скриптами. Они могут встраиваться в HTML и выполняться автоматически при загрузке веб-страницы.&lt;/p&gt;
-&lt;p&gt;Скрипты распространяются и выполняются, как простой текст. Им не нужна специальная подготовка или компиляция для запуска.&lt;/p&gt;
-&lt;p&gt;Это отличает JavaScript от другого языка – Java.&lt;/p&gt;
-&lt;p&gt;Когда JavaScript создавался, у него было другое имя – «LiveScript». Однако, язык Java был очень популярен в то время, и было решено, что позиционирование JavaScript как «младшего брата» Java будет полезно.&lt;/p&gt;
-&lt;p&gt;Со временем JavaScript стал полностью независимым языком со своей собственной спецификацией, называющейся ECMAScript, и сейчас не имеет никакого отношения к Java.&lt;/p&gt;
-&lt;p&gt;Сегодня JavaScript может выполняться не только в браузере, но и на сервере или на любом другом устройстве, которое имеет специальную программу, называющуюся «движком» JavaScript.&lt;/p&gt;
-&lt;p&gt;У браузера есть собственный движок, который иногда называют «виртуальная машина JavaScript».&lt;/p&gt;
+      <description>&lt;p&gt;JavaScript was originally created to &amp;ldquo;make web pages live.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Programs in this language are called scripts. They can be embedded in HTML and executed automatically when a web page loads.&lt;/p&gt;
+&lt;p&gt;Scripts are distributed and executed as plain text. They don&amp;rsquo;t need special preparation or compilation to run.&lt;/p&gt;
+&lt;p&gt;This distinguishes JavaScript from another language – Java.&lt;/p&gt;
+&lt;p&gt;When JavaScript was created, it had a different name – &amp;ldquo;LiveScript&amp;rdquo;. However, the Java language was very popular at the time, and it was decided that positioning JavaScript as the &amp;ldquo;younger brother&amp;rdquo; of Java would be useful.&lt;/p&gt;
+&lt;p&gt;Over time, JavaScript has become a completely independent language with its own specification, called ECMAScript, and now has nothing to do with Java.&lt;/p&gt;
+&lt;p&gt;Today JavaScript can be executed not only in the browser, but also on the server or on any other device that has a special program called the JavaScript &amp;ldquo;engine&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The browser has its own engine, which is sometimes called a &amp;ldquo;JavaScript virtual machine&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
@@ -79,142 +181,148 @@
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/slides/javascript/</guid>
       <description>&lt;h1 id=&#34;javascript&#34;&gt;JavaScript&lt;/h1&gt;
-&lt;p&gt;Введение&lt;/p&gt;
+&lt;p&gt;Introduction&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;для-чего-был-создан&#34;&gt;Для чего был создан&lt;/h2&gt;
-&lt;p&gt;Изначально JavaScript был создан, чтобы «сделать веб-страницы живыми».&lt;/p&gt;
+&lt;h2 id=&#34;what-was-it-created-for&#34;&gt;What was it created for&lt;/h2&gt;
+&lt;p&gt;JavaScript was originally created to &amp;ldquo;make web pages live.&amp;rdquo;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;программы-на-этом-языке-называются&#34;&gt;Программы на этом языке называются&lt;/h2&gt;
-&lt;p&gt;скриптами. Они могут встраиваться в HTML и выполняться автоматически при загрузке веб-страницы.&lt;/p&gt;
+&lt;h2 id=&#34;programs-in-this-language-are-called&#34;&gt;Programs in this language are called&lt;/h2&gt;
+&lt;p&gt;scripts. They can be embedded in HTML and executed automatically when a web page loads.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;где-javascript-может-выполняться&#34;&gt;Где JavaScript может выполняться?&lt;/h2&gt;
-&lt;p&gt;Сегодня JavaScript может выполняться не только в браузере, но и на сервере или на любом другом устройстве, которое имеет специальную программу, называющуюся «движком» JavaScript.&lt;/p&gt;
+&lt;h2 id=&#34;where-can-javascript-be-executed&#34;&gt;Where can JavaScript be executed?&lt;/h2&gt;
+&lt;p&gt;Today JavaScript can be executed not only in the browser, but also on the server or on any other device that has a special program called the JavaScript &amp;ldquo;engine&amp;rdquo;.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>
     
     <item>
-      <title>Пргораммирование</title>
+      <title>Programming</title>
       <link>https://example.com/project/programming/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/programming/</guid>
-      <description>&lt;p&gt;Сегодня слово «Программирование» можно увидеть / услышать, как в какой-нибудь вирусной рекламе в социальной сети, так и в литературном или кинематографическом произведении. Однако что такое программирование и кто такие программисты? Не мудрствуя лукаво, можно поступить как матерый кодер и загуглить новое слово.&lt;/p&gt;
-&lt;p&gt;Согласно многочисленным определениям, программирование — это процесс создания компьютерных программ. Расшифровать это определение можно следующим образом. Программирование есть ничто иное, как объяснение машине что, в каком виде и как нужно получить пользователю. То есть это своеобразное искусство перевода пожеланий человека на язык машины.&lt;/p&gt;
-&lt;p&gt;Основная идея заключается в том, чтобы составить алгоритм и перевести его на язык программирования. Гуру разработки часто рекомендуют начать разработку программы с ответа на вопрос: «Можно ли реализовать эту задачу программно?». К примеру, даже сегодня мы не можем заставить компьютер предсказать, что будет через несколько дней. И пусть этот пример не совсем корректен, потому как данная задача невыполнима в принципе. Однако, если сузить постановку задачи до предсказания поведения какой-нибудь валюты на бирже — подобная задача решается при помощи достаточного сложного алгоритма и большой базы экспериментальных данных.&lt;/p&gt;
+      <description>&lt;p&gt;Today, the word &amp;ldquo;Programming&amp;rdquo; can be seen / heard, both in some viral advertisement on a social network, and in a literary or cinematic work. However, what is programming and who are programmers? Without further ado, you can act like a seasoned coder and Google a new word.&lt;/p&gt;
+&lt;p&gt;According to numerous definitions, programming is the process of creating computer programs. This definition can be deciphered as follows. Programming is nothing more than explaining to the machine what, in what form and how the user needs to get it. That is, it is a kind of art of translating a person&amp;rsquo;s wishes into the language of a machine.&lt;/p&gt;
+&lt;p&gt;The main idea is to make an algorithm and translate it into a programming language. Development gurus often recommend starting program development by answering the question: &amp;ldquo;Is it possible to implement this task programmatically?&amp;rdquo;. For example, even today we cannot force the computer to predict what will happen in a few days. And let this example not be completely correct, because this task is impossible in principle. However, if we narrow down the problem statement to predicting the behavior of some currency on the stock exchange, such a problem is solved with the help of a sufficiently complex algorithm and a large database of experimental data.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Пргораммирование</title>
+      <title>Programming</title>
       <link>https://example.com/slides/programming/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/slides/programming/</guid>
-      <description>&lt;h1 id=&#34;пргораммирование&#34;&gt;Пргораммирование&lt;/h1&gt;
-&lt;p&gt;Введение&lt;/p&gt;
+      <description>&lt;h1 id=&#34;programming&#34;&gt;Programming&lt;/h1&gt;
+&lt;p&gt;Introduction&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;слово-программирование&#34;&gt;Слово «Программирование»&lt;/h2&gt;
-&lt;p&gt;Сегодня слово «Программирование» можно увидеть / услышать, как в какой-нибудь вирусной рекламе в социальной сети, так и в литературном или кинематографическом произведении. Однако что такое программирование и кто такие программисты? Не мудрствуя лукаво, можно поступить как матерый кодер и загуглить новое слово.&lt;/p&gt;
+&lt;h2 id=&#34;the-word-programming&#34;&gt;The word &amp;ldquo;Programming&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Today, the word &amp;ldquo;Programming&amp;rdquo; can be seen / heard, both in some viral advertisement on a social network, and in a literary or cinematic work. However, what is programming and who are programmers? Without further ado, you can act like a seasoned coder and Google a new word.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;программирование--это&#34;&gt;Программирование — это&lt;/h2&gt;
-&lt;p&gt;процесс создания компьютерных программ. Расшифровать это определение можно следующим образом. Программирование есть ничто иное, как объяснение машине что, в каком виде и как нужно получить пользователю. То есть это своеобразное искусство перевода пожеланий человека на язык машины.&lt;/p&gt;
+&lt;h2 id=&#34;programming-is&#34;&gt;Programming is&lt;/h2&gt;
+&lt;p&gt;the process of creating computer programs. This definition can be deciphered as follows. Programming is nothing more than explaining to the machine what, in what form and how the user needs to get it. That is, it is a kind of art of translating a person&amp;rsquo;s wishes into the language of a machine.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;основная-идея&#34;&gt;Основная идея&lt;/h2&gt;
-&lt;p&gt;заключается в том, чтобы составить алгоритм и перевести его на язык программирования. Гуру разработки часто рекомендуют начать разработку программы с ответа на вопрос: «Можно ли реализовать эту задачу программно?».&lt;/p&gt;
+&lt;h2 id=&#34;the-main-idea&#34;&gt;The main idea&lt;/h2&gt;
+&lt;p&gt;The idea is to make an algorithm and translate it into a programming language. Development gurus often recommend starting program development by answering the question: &amp;ldquo;Is it possible to implement this task programmatically?&amp;rdquo;.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>
     
     <item>
-      <title>Мой третий пост</title>
+      <title>My third post</title>
       <link>https://example.com/post/post3/</link>
       <pubDate>Sat, 21 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/post3/</guid>
-      <description>&lt;p&gt;На этой неделе я написала 2 контрольных работы: по математической логике и по математическому анализу. А в конце недели я отсыпалась. На занятиях по английскому репетировали устный экзамен, а в субботу написали тест по 5 юниту.&lt;/p&gt;
+      <description>&lt;p&gt;This week I wrote 2 test papers: on mathematical logic and on mathematical analysis. And at the end of the week I slept off. In English classes, we rehearsed an oral exam, and on Saturday we wrote a test for the 5th unit.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Оформление отчёта.</title>
+      <title>The design of the report.</title>
       <link>https://example.com/post/report_fixes/</link>
       <pubDate>Sat, 21 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/report_fixes/</guid>
       <description>&lt;ol&gt;
-&lt;li&gt;Структура отчёта&lt;/li&gt;
+&lt;li&gt;Report structure&lt;/li&gt;
 &lt;/ol&gt;
-&lt;p&gt;Согласно ГОСТ 7.32-2001,любая научно-исследовательская работа должна обязательно
-содержать следующие элементы:&lt;/p&gt;
+&lt;p&gt;According to GOST 7.32-2001, any research work must necessarily
+contain the following elements:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;титульный лист;&lt;/li&gt;
-&lt;li&gt;реферат;&lt;/li&gt;
-&lt;li&gt;введение;&lt;/li&gt;
-&lt;li&gt;основную часть;&lt;/li&gt;
-&lt;li&gt;заключение.&lt;/li&gt;
+&lt;li&gt;title page;&lt;/li&gt;
+&lt;li&gt;summary;&lt;/li&gt;
+&lt;li&gt;introduction;&lt;/li&gt;
+&lt;li&gt;the main part;&lt;/li&gt;
+&lt;li&gt;conclusion.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;Также ГОСТ рекомендует включить в работу итакие элементы:&lt;/p&gt;
+&lt;p&gt;GOST also recommends including the following elements in the work:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;список исполнителей;&lt;/li&gt;
-&lt;li&gt;содержание;&lt;/li&gt;
-&lt;li&gt;нормативные ссылки;&lt;/li&gt;
-&lt;li&gt;определения;&lt;/li&gt;
-&lt;li&gt;обозначения и сокращения;&lt;/li&gt;
-&lt;li&gt;список использованных источников;&lt;/li&gt;
-&lt;li&gt;приложения.
-Если вы проводите сложную работу,выполняемую в несколько этапов,то вам может
-понадобиться включить в работу часть или все элементы второго списка.&lt;/li&gt;
+&lt;li&gt;list of performers;&lt;/li&gt;
+&lt;li&gt;content;&lt;/li&gt;
+&lt;li&gt;regulatory references;&lt;/li&gt;
+&lt;li&gt;definitions;&lt;/li&gt;
+&lt;li&gt;designations and abbreviations;&lt;/li&gt;
+&lt;li&gt;list of sources used;&lt;/li&gt;
+&lt;li&gt;applications.
+If you are carrying out complex work performed in several stages, then you may
+need to include part or all of the elements of the second list in the work.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Содержание основных элементов отчёта&lt;/li&gt;
+&lt;li&gt;The content of the main elements of the report&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;Титульный лист.Первыйлистработыоформляетсястрогопообразцу,который обычно приводится в методических пособиях по вашему предмету.В нем не простотребуется указать такие элементы, как название образовательного учреждения, вид работы и сведения об исполнителе,но и расположитьих в строгом соответствии со стандартами.&lt;/li&gt;
-&lt;li&gt;Реферат.Реферат фактически является кратким представлением всего вашего отчета и содержит ряд статистических сведений. В нем нужно указать количество частей, страниц работы,иллюстраций,приложений,таблиц,использованных литературных источников и приложений. Здесь же приводится перечень ключевых слов работы и собственнотекст реферата.Последний подразумевает основные элементы работы от поставленных целей до результатов и рекомендаций по их внедрению.В практике вузов в отчеты по лабораторным работам реферат обычно не включают.&lt;/li&gt;
-&lt;li&gt;Введение. Во введении типовой лабораторной работы обычно прописывают цели проводимого исследования и задачи,выполнение которых поможетдостичь поставленных целей. В то же время существуют работы, в которых студенты становятся настоящими первооткрывателями.Приходилосьли вам хотя бы однажды испытывать чувство крайнего любопытства и нетерпения при проведении лабораторной работы? Ощущать,что буквально через пару минут вы найдете ответна вопрос,на который
-еще никто и никогда не находил ответа? Именно для таких исследований пишется развернутое введение с доказательством актуальности и новизны изучаемой темы.Чтобы действительно провести исследование втой области,в которой,как говорится,еще не ступала нога человека,во введении вам понадобится привести оценку современного состояния рассматриваемой проблемы и обосновать необходимость ее решения.&lt;/li&gt;
-&lt;li&gt;Основная часть. Так как в разных вузах и в разных дисциплинах существуют свои тонкости проведения лабораторных работ, содержание основной части подробно описывают в соответствующих методичках. Важно,чтобы в этом разделе работы была отражена ее суть,описана методика и результаты проделанной работы.&lt;/li&gt;
+&lt;li&gt;Title page.The first list of work is formed according to a strict pattern, which is usually given in methodological manuals on your subject.It is not required to specify such elements as the name of the educational institution, the type of work and information about the performer, but also to arrange them in strict accordance with the standards.&lt;/li&gt;
+&lt;li&gt;Abstract.The abstract is actually a summary of your entire report and contains a number of statistical information. In it, you need to specify the number of parts, pages of the work, illustrations, appendices, tables, used literary sources and appendices. Here is also a list of the keywords of the work and the text of the abstract itself.The latter implies the main elements of the work from the set goals to the results and recommendations for their implementation.In the practice of universities, the abstract is usually not included in the reports on laboratory work.&lt;/li&gt;
+&lt;li&gt;Introduction. In the introduction of a typical laboratory work, the goals of the study and the tasks that will help achieve the goals are usually prescribed. At the same time, there are works in which students become real pioneers.Have you ever experienced at least once a feeling of extreme curiosity and impatience during laboratory work? To feel that in just a couple of minutes you will find the answer to the question that
+has no one ever found an answer yet? It is for such studies that a detailed introduction is written with proof of the relevance and novelty of the topic being studied.In order to really conduct research in this area, in which, as they say, no human foot has yet set foot, in the introduction you will need to give an assessment of the current state of the problem under consideration and justify the need for its solution.&lt;/li&gt;
+&lt;li&gt;The main part. Since different universities and disciplines have their own subtleties of laboratory work, the content of the main part is described in detail in the relevant manuals. It is important that this section of the work reflects its essence, describes the methodology and results of the work done.&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;В основной части прописывают следующие элементы:&lt;/p&gt;
+&lt;p&gt;The main part prescribes the following elements:&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;цели проводимого исследования;&lt;/li&gt;
-&lt;li&gt;задачи,выполнение которых поможетдостичь поставленных целей;&lt;/li&gt;
-&lt;li&gt;ход работы,в котором описываются выполненные действия;&lt;/li&gt;
-&lt;li&gt;прочие разделы,предусмотренные методическими материалами по изучаемой дисциплине.&lt;/li&gt;
-&lt;li&gt;Заключение.В этой части работы вам потребуется сделать выводы по полученным в ходе лабораторной работы результатам.Для этого оцените,насколько полно выполнены поставленные задачи.В сложных работах могутприсутствовать и другие элементы, например, рекомендации для дальнейшего применения результатов проведённой работы.&lt;/li&gt;
+&lt;li&gt;objectives of the study;&lt;/li&gt;
+&lt;li&gt;tasks that will help you achieve your goals;&lt;/li&gt;
+&lt;li&gt;the progress of the work, which describes the actions performed;&lt;/li&gt;
+&lt;li&gt;other sections provided by methodological materials on the discipline being studied.&lt;/li&gt;
+&lt;li&gt;Conclusion.In this part of the work, you will need to draw conclusions from the results obtained during the laboratory work.To do this, evaluate how fully the tasks have been completed.In complex works, other elements may also be present, for example, recommendations for further application of the results of the work carried out.&lt;/li&gt;
 &lt;/ul&gt;
 </description>
     </item>
     
     <item>
-      <title>Легковесные языки разметки.</title>
+      <title>Lightweight markup languages.</title>
       <link>https://example.com/post/langs/</link>
       <pubDate>Sat, 14 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/langs/</guid>
       <description>&lt;ol&gt;
-&lt;li&gt;Общая информация&lt;/li&gt;
+&lt;li&gt;General information&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
-&lt;li&gt;Предназначены для простого и быстрого добавления форматирования в текстовые данные.&lt;/li&gt;
-&lt;li&gt;Особенности:
+&lt;li&gt;Designed to easily and quickly add formatting to text data.&lt;/li&gt;
+&lt;li&gt;Features:&lt;/li&gt;
+&lt;/ul&gt;
 &lt;ul&gt;
-&lt;li&gt;Минимум функций.&lt;/li&gt;
-&lt;li&gt;Небольшой набор поддерживаемых тегов.&lt;/li&gt;
-&lt;li&gt;Легки в освоении.&lt;/li&gt;
-&lt;li&gt;Исходный текст на таком языке читается с такой же лёгкостью, как и готовый документ.&lt;/li&gt;
+&lt;li&gt;Minimum functions.
+&lt;ul&gt;
+&lt;li&gt;A small set of supported tags.&lt;/li&gt;
+&lt;li&gt;Easy to learn.&lt;/li&gt;
+&lt;li&gt;The source text in such a language is read with the same ease as the finished document.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;2&#34;&gt;
-&lt;li&gt;Представители&lt;/li&gt;
+&lt;li&gt;Representatives&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;Markdown&lt;/li&gt;
 &lt;li&gt;Org-mode&lt;/li&gt;
-&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;BB Code&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
 &lt;li&gt;reStructuredText&lt;/li&gt;
 &lt;li&gt;Textile&lt;/li&gt;
-&lt;li&gt;Вики-разметка&lt;/li&gt;
+&lt;li&gt;Wiki markup&lt;/li&gt;
 &lt;/ul&gt;
 &lt;ol start=&#34;3&#34;&gt;
-&lt;li&gt;Легковесные языки для записи математических выражений&lt;/li&gt;
+&lt;li&gt;Lightweight languages for writing mathematical expressions&lt;/li&gt;
 &lt;/ol&gt;
 &lt;ul&gt;
 &lt;li&gt;AsciiMath&lt;/li&gt;
@@ -223,47 +331,35 @@
     </item>
     
     <item>
-      <title>Мой второй пост</title>
+      <title>My second post</title>
       <link>https://example.com/post/post2/</link>
       <pubDate>Sat, 14 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/post2/</guid>
-      <description>&lt;p&gt;На этой неделе я обчиталась, поучилась и поделала домашние работы по университетским предметам, как и на прошлой неделе.
-Отпраздновала мамин день рождения, сделала ей открытку впервые в формате графического файла.
-Открыла много нового для себя из книги. Это касалось работы нашего мозга, наших убеждений и того, как на них можно влиять.&lt;/p&gt;
+      <description>&lt;p&gt;This week I read a lot, studied and did my homework on university subjects, just like last week.
+I celebrated my mother&amp;rsquo;s birthday, made her a postcard for the first time in the format of a graphic file.
+I discovered a lot of new things for myself from the book. It concerned the work of our brain, our beliefs and how they can be influenced.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Мой первый пост</title>
-      <link>https://example.com/post/</link>
-      <pubDate>Sat, 07 May 2022 22:05:56 +0300</pubDate>
-      <guid>https://example.com/post/</guid>
-      <description>&lt;p&gt;На этой неделе я подготовила и успешно рассказала доклад по ОС, обчиталась, поучилась и поделала домашние работы по университетским предметам, попробовала вникать в матанализ (даже получилось), прочитала лекцию по матанализу для своего направления.&lt;/p&gt;
-&lt;p&gt;В начале недели из-за праздников состояние было очень ленивым, но под конец пришлось собраться в кучку и сделать всё необходимое.&lt;/p&gt;
-&lt;p&gt;Очень многое обсудила с близкими мне людьми и пришла к выводу о том, что крайне важно будет попробовать воссоздать своё генеалогическое древо с максимально обширной информацией по своим родственникам. Пусть на это может уйти достаточно много времени, сделать это никогда не будет поздно. Это полезно для большего понимания себя, своих близких, своего и их мировоззрения. Не менее полезно было бы узнать истории жизней близких мне людей, с которыми я уже очень давно (и недавно тоже).&lt;/p&gt;
-&lt;p&gt;Не удалось достаточно времени уделить общению с родными. На выходных и праздниках это можно будет восполнить и провести время в приятной компании&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Мой первый пост</title>
+      <title>My first post</title>
       <link>https://example.com/post/post1/post1/</link>
       <pubDate>Sat, 07 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/post1/post1/</guid>
-      <description>&lt;p&gt;На этой неделе я подготовила и успешно рассказала доклад по ОС, обчиталась, поучилась и поделала домашние работы по университетским предметам, попробовала вникать в матанализ (даже получилось), прочитала лекцию по матанализу для своего направления.&lt;/p&gt;
-&lt;p&gt;В начале недели из-за праздников состояние было очень ленивым, но под конец пришлось собраться в кучку и сделать всё необходимое.&lt;/p&gt;
-&lt;p&gt;Очень многое обсудила с близкими мне людьми и пришла к выводу о том, что крайне важно будет попробовать воссоздать своё генеалогическое древо с максимально обширной информацией по своим родственникам. Пусть на это может уйти достаточно много времени, сделать это никогда не будет поздно. Это полезно для большего понимания себя, своих близких, своего и их мировоззрения. Не менее полезно было бы узнать истории жизней близких мне людей, с которыми я уже очень давно (и недавно тоже).&lt;/p&gt;
-&lt;p&gt;Не удалось достаточно времени уделить общению с родными. На выходных и праздниках это можно будет восполнить и провести время в приятной компании&lt;/p&gt;
+      <description>&lt;p&gt;This week I prepared and successfully presented a report on OS, read, studied and did homework on university subjects, tried to delve into matanalysis (it even turned out), gave a lecture on matanalysis for my direction.&lt;/p&gt;
+&lt;p&gt;At the beginning of the week, due to the holidays, the state was very lazy, but in the end I had to gather in a bunch and do everything necessary.&lt;/p&gt;
+&lt;p&gt;I discussed a lot with people close to me and came to the conclusion that it would be extremely important to try to recreate my family tree with the most extensive information on my relatives. Even though it may take quite a long time, it will never be too late to do it. This is useful for a greater understanding of yourself, your loved ones, your and their worldview. It would be equally useful to know the life stories of people close to me, with whom I have been with for a very long time (and recently too).&lt;/p&gt;
+&lt;p&gt;It was not possible to devote enough time to communicating with relatives. On weekends and holidays it will be possible to make up for it and spend time in pleasant company&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Управление версиями. Git.</title>
+      <title>Version control. Git.</title>
       <link>https://example.com/post/gitvers_control/gitvers_control/</link>
       <pubDate>Sat, 07 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/gitvers_control/gitvers_control/</guid>
-      <description>&lt;div style=&#34;text-align:justify&#34;&gt;Система контроля версий: почему это важно? Контроль версий, также известный как управление исходным кодом, — это практика отслеживания изменений программного кода и управления ими. Системы контроля версий (СКВ) — это программные инструменты, помогающие командам разработчиков управлять изменениями в исходном коде с течением времени. В свете усложнения сред разработки они помогают командам разработчиков работать быстрее и эффективнее. СКВ позволяет позже вернуться к любой желаемой вами версии.&lt;/div&gt;
-&lt;div style=&#34;text-align:justify&#34;&gt;Программное обеспечение контроля версий отслеживает все вносимые в код изменения в специальной базе данных. При обнаружении ошибки разработчики могут вернуться назад и выполнить сравнение с более ранними версиями кода для исправления ошибок, сводя к минимуму проблемы для всех участников команды. Практически во всех программных проектах исходный код является сокровищем: это ценный ресурс, который необходимо беречь. Для большинства команд разработчиков программного обеспечения исходный код — это репозиторий бесценных знаний и понимания проблемной области, которые они скрупулезно собирали и совершенствовали. Контроль версий защищает исходный код от катастрофических сбоев, от случайных ухудшений, вызванных человеческим фактором, а также от непредвиденных последствий.&lt;/div&gt;
+      <description>&lt;div style=&#34;text-align:justify&#34;&gt;Version control system: Why is it important? Version control, also known as source code management, is the practice of tracking and managing changes to software code. Version Control Systems (VCS) are software tools that help development teams manage changes to source code over time. In light of the complexity of development environments, they help development teams work faster and more efficiently. SLE allows you to return to any version you want later.&lt;/div&gt;
+&lt;div style=&#34;text-align:justify&#34;&gt;The version control software keeps track of all changes made to the code in a special database. If an error is detected, developers can go back and perform a comparison with earlier versions of the code to fix errors, minimizing problems for all team members. In almost all software projects, the source code is a treasure: it is a valuable resource that needs to be protected. For most software development teams, the source code is a repository of invaluable knowledge and understanding of the problem area, which they scrupulously collected and improved. Version control protects the source code from catastrophic failures, from accidental deterioration caused by the human factor, as well as from unforeseen consequences.&lt;/div&gt;
 </description>
     </item>
     

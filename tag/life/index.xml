@@ -5,7 +5,7 @@
     <link>https://example.com/tag/life/</link>
       <atom:link href="https://example.com/tag/life/index.xml" rel="self" type="application/rss+xml" />
     <description>life</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 28 May 2022 22:05:56 +0300</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 04 Jun 2022 22:05:56 +0300</lastBuildDate>
     <image>
       <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
       <title>life</title>
@@ -13,56 +13,53 @@
     </image>
     
     <item>
-      <title>Мой четвёртый пост</title>
+      <title>My fifth post</title>
+      <link>https://example.com/post/post5/</link>
+      <pubDate>Sat, 04 Jun 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/post/post5/</guid>
+      <description>&lt;p&gt;This week I wrote 2 test papers: on mathematical logic and on mathematical analysis. I also passed an oral exam in English and gave one of the last lectures on mathematical analysis on Friday. At the end of the week, I did the last laboratory and the last stage of the individual project. And after all that, I rested.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My fourth post</title>
       <link>https://example.com/post/post4/</link>
       <pubDate>Sat, 28 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/post4/</guid>
-      <description>&lt;p&gt;На этой неделе я приходила в себя и готовилась к предстоящим контрольным и экзаментам. Всем, кого они тоже ждут - желаю удачи и успеха!
-Ещё на этой неделе я праздновала бабушкин день рождения.&lt;/p&gt;
+      <description>&lt;p&gt;This week I was recovering and preparing for the upcoming tests and exams. I wish good luck and success to everyone they are also waiting for!
+Even this week I celebrated my grandmother&amp;rsquo;s birthday.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Мой третий пост</title>
+      <title>My third post</title>
       <link>https://example.com/post/post3/</link>
       <pubDate>Sat, 21 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/post3/</guid>
-      <description>&lt;p&gt;На этой неделе я написала 2 контрольных работы: по математической логике и по математическому анализу. А в конце недели я отсыпалась. На занятиях по английскому репетировали устный экзамен, а в субботу написали тест по 5 юниту.&lt;/p&gt;
+      <description>&lt;p&gt;This week I wrote 2 test papers: on mathematical logic and on mathematical analysis. And at the end of the week I slept off. In English classes, we rehearsed an oral exam, and on Saturday we wrote a test for the 5th unit.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Мой второй пост</title>
+      <title>My second post</title>
       <link>https://example.com/post/post2/</link>
       <pubDate>Sat, 14 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/post2/</guid>
-      <description>&lt;p&gt;На этой неделе я обчиталась, поучилась и поделала домашние работы по университетским предметам, как и на прошлой неделе.
-Отпраздновала мамин день рождения, сделала ей открытку впервые в формате графического файла.
-Открыла много нового для себя из книги. Это касалось работы нашего мозга, наших убеждений и того, как на них можно влиять.&lt;/p&gt;
+      <description>&lt;p&gt;This week I read a lot, studied and did my homework on university subjects, just like last week.
+I celebrated my mother&amp;rsquo;s birthday, made her a postcard for the first time in the format of a graphic file.
+I discovered a lot of new things for myself from the book. It concerned the work of our brain, our beliefs and how they can be influenced.&lt;/p&gt;
 </description>
     </item>
     
     <item>
-      <title>Мой первый пост</title>
-      <link>https://example.com/post/</link>
-      <pubDate>Sat, 07 May 2022 22:05:56 +0300</pubDate>
-      <guid>https://example.com/post/</guid>
-      <description>&lt;p&gt;На этой неделе я подготовила и успешно рассказала доклад по ОС, обчиталась, поучилась и поделала домашние работы по университетским предметам, попробовала вникать в матанализ (даже получилось), прочитала лекцию по матанализу для своего направления.&lt;/p&gt;
-&lt;p&gt;В начале недели из-за праздников состояние было очень ленивым, но под конец пришлось собраться в кучку и сделать всё необходимое.&lt;/p&gt;
-&lt;p&gt;Очень многое обсудила с близкими мне людьми и пришла к выводу о том, что крайне важно будет попробовать воссоздать своё генеалогическое древо с максимально обширной информацией по своим родственникам. Пусть на это может уйти достаточно много времени, сделать это никогда не будет поздно. Это полезно для большего понимания себя, своих близких, своего и их мировоззрения. Не менее полезно было бы узнать истории жизней близких мне людей, с которыми я уже очень давно (и недавно тоже).&lt;/p&gt;
-&lt;p&gt;Не удалось достаточно времени уделить общению с родными. На выходных и праздниках это можно будет восполнить и провести время в приятной компании&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Мой первый пост</title>
+      <title>My first post</title>
       <link>https://example.com/post/post1/post1/</link>
       <pubDate>Sat, 07 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/post1/post1/</guid>
-      <description>&lt;p&gt;На этой неделе я подготовила и успешно рассказала доклад по ОС, обчиталась, поучилась и поделала домашние работы по университетским предметам, попробовала вникать в матанализ (даже получилось), прочитала лекцию по матанализу для своего направления.&lt;/p&gt;
-&lt;p&gt;В начале недели из-за праздников состояние было очень ленивым, но под конец пришлось собраться в кучку и сделать всё необходимое.&lt;/p&gt;
-&lt;p&gt;Очень многое обсудила с близкими мне людьми и пришла к выводу о том, что крайне важно будет попробовать воссоздать своё генеалогическое древо с максимально обширной информацией по своим родственникам. Пусть на это может уйти достаточно много времени, сделать это никогда не будет поздно. Это полезно для большего понимания себя, своих близких, своего и их мировоззрения. Не менее полезно было бы узнать истории жизней близких мне людей, с которыми я уже очень давно (и недавно тоже).&lt;/p&gt;
-&lt;p&gt;Не удалось достаточно времени уделить общению с родными. На выходных и праздниках это можно будет восполнить и провести время в приятной компании&lt;/p&gt;
+      <description>&lt;p&gt;This week I prepared and successfully presented a report on OS, read, studied and did homework on university subjects, tried to delve into matanalysis (it even turned out), gave a lecture on matanalysis for my direction.&lt;/p&gt;
+&lt;p&gt;At the beginning of the week, due to the holidays, the state was very lazy, but in the end I had to gather in a bunch and do everything necessary.&lt;/p&gt;
+&lt;p&gt;I discussed a lot with people close to me and came to the conclusion that it would be extremely important to try to recreate my family tree with the most extensive information on my relatives. Even though it may take quite a long time, it will never be too late to do it. This is useful for a greater understanding of yourself, your loved ones, your and their worldview. It would be equally useful to know the life stories of people close to me, with whom I have been with for a very long time (and recently too).&lt;/p&gt;
+&lt;p&gt;It was not possible to devote enough time to communicating with relatives. On weekends and holidays it will be possible to make up for it and spend time in pleasant company&lt;/p&gt;
 </description>
     </item>
     

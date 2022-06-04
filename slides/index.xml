@@ -12,36 +12,36 @@
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/slides/javascript/</guid>
       <description>&lt;h1 id=&#34;javascript&#34;&gt;JavaScript&lt;/h1&gt;
-&lt;p&gt;Введение&lt;/p&gt;
+&lt;p&gt;Introduction&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;для-чего-был-создан&#34;&gt;Для чего был создан&lt;/h2&gt;
-&lt;p&gt;Изначально JavaScript был создан, чтобы «сделать веб-страницы живыми».&lt;/p&gt;
+&lt;h2 id=&#34;what-was-it-created-for&#34;&gt;What was it created for&lt;/h2&gt;
+&lt;p&gt;JavaScript was originally created to &amp;ldquo;make web pages live.&amp;rdquo;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;программы-на-этом-языке-называются&#34;&gt;Программы на этом языке называются&lt;/h2&gt;
-&lt;p&gt;скриптами. Они могут встраиваться в HTML и выполняться автоматически при загрузке веб-страницы.&lt;/p&gt;
+&lt;h2 id=&#34;programs-in-this-language-are-called&#34;&gt;Programs in this language are called&lt;/h2&gt;
+&lt;p&gt;scripts. They can be embedded in HTML and executed automatically when a web page loads.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;где-javascript-может-выполняться&#34;&gt;Где JavaScript может выполняться?&lt;/h2&gt;
-&lt;p&gt;Сегодня JavaScript может выполняться не только в браузере, но и на сервере или на любом другом устройстве, которое имеет специальную программу, называющуюся «движком» JavaScript.&lt;/p&gt;
+&lt;h2 id=&#34;where-can-javascript-be-executed&#34;&gt;Where can JavaScript be executed?&lt;/h2&gt;
+&lt;p&gt;Today JavaScript can be executed not only in the browser, but also on the server or on any other device that has a special program called the JavaScript &amp;ldquo;engine&amp;rdquo;.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>
     
     <item>
-      <title>Пргораммирование</title>
+      <title>Programming</title>
       <link>https://example.com/slides/programming/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/slides/programming/</guid>
-      <description>&lt;h1 id=&#34;пргораммирование&#34;&gt;Пргораммирование&lt;/h1&gt;
-&lt;p&gt;Введение&lt;/p&gt;
+      <description>&lt;h1 id=&#34;programming&#34;&gt;Programming&lt;/h1&gt;
+&lt;p&gt;Introduction&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;слово-программирование&#34;&gt;Слово «Программирование»&lt;/h2&gt;
-&lt;p&gt;Сегодня слово «Программирование» можно увидеть / услышать, как в какой-нибудь вирусной рекламе в социальной сети, так и в литературном или кинематографическом произведении. Однако что такое программирование и кто такие программисты? Не мудрствуя лукаво, можно поступить как матерый кодер и загуглить новое слово.&lt;/p&gt;
+&lt;h2 id=&#34;the-word-programming&#34;&gt;The word &amp;ldquo;Programming&amp;rdquo;&lt;/h2&gt;
+&lt;p&gt;Today, the word &amp;ldquo;Programming&amp;rdquo; can be seen / heard, both in some viral advertisement on a social network, and in a literary or cinematic work. However, what is programming and who are programmers? Without further ado, you can act like a seasoned coder and Google a new word.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;программирование--это&#34;&gt;Программирование — это&lt;/h2&gt;
-&lt;p&gt;процесс создания компьютерных программ. Расшифровать это определение можно следующим образом. Программирование есть ничто иное, как объяснение машине что, в каком виде и как нужно получить пользователю. То есть это своеобразное искусство перевода пожеланий человека на язык машины.&lt;/p&gt;
+&lt;h2 id=&#34;programming-is&#34;&gt;Programming is&lt;/h2&gt;
+&lt;p&gt;the process of creating computer programs. This definition can be deciphered as follows. Programming is nothing more than explaining to the machine what, in what form and how the user needs to get it. That is, it is a kind of art of translating a person&amp;rsquo;s wishes into the language of a machine.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;основная-идея&#34;&gt;Основная идея&lt;/h2&gt;
-&lt;p&gt;заключается в том, чтобы составить алгоритм и перевести его на язык программирования. Гуру разработки часто рекомендуют начать разработку программы с ответа на вопрос: «Можно ли реализовать эту задачу программно?».&lt;/p&gt;
+&lt;h2 id=&#34;the-main-idea&#34;&gt;The main idea&lt;/h2&gt;
+&lt;p&gt;The idea is to make an algorithm and translate it into a programming language. Development gurus often recommend starting program development by answering the question: &amp;ldquo;Is it possible to implement this task programmatically?&amp;rdquo;.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>

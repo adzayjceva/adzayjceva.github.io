@@ -17,14 +17,14 @@
       <link>https://example.com/project/javascript/</link>
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/project/javascript/</guid>
-      <description>&lt;p&gt;Изначально JavaScript был создан, чтобы «сделать веб-страницы живыми».&lt;/p&gt;
-&lt;p&gt;Программы на этом языке называются скриптами. Они могут встраиваться в HTML и выполняться автоматически при загрузке веб-страницы.&lt;/p&gt;
-&lt;p&gt;Скрипты распространяются и выполняются, как простой текст. Им не нужна специальная подготовка или компиляция для запуска.&lt;/p&gt;
-&lt;p&gt;Это отличает JavaScript от другого языка – Java.&lt;/p&gt;
-&lt;p&gt;Когда JavaScript создавался, у него было другое имя – «LiveScript». Однако, язык Java был очень популярен в то время, и было решено, что позиционирование JavaScript как «младшего брата» Java будет полезно.&lt;/p&gt;
-&lt;p&gt;Со временем JavaScript стал полностью независимым языком со своей собственной спецификацией, называющейся ECMAScript, и сейчас не имеет никакого отношения к Java.&lt;/p&gt;
-&lt;p&gt;Сегодня JavaScript может выполняться не только в браузере, но и на сервере или на любом другом устройстве, которое имеет специальную программу, называющуюся «движком» JavaScript.&lt;/p&gt;
-&lt;p&gt;У браузера есть собственный движок, который иногда называют «виртуальная машина JavaScript».&lt;/p&gt;
+      <description>&lt;p&gt;JavaScript was originally created to &amp;ldquo;make web pages live.&amp;rdquo;&lt;/p&gt;
+&lt;p&gt;Programs in this language are called scripts. They can be embedded in HTML and executed automatically when a web page loads.&lt;/p&gt;
+&lt;p&gt;Scripts are distributed and executed as plain text. They don&amp;rsquo;t need special preparation or compilation to run.&lt;/p&gt;
+&lt;p&gt;This distinguishes JavaScript from another language – Java.&lt;/p&gt;
+&lt;p&gt;When JavaScript was created, it had a different name – &amp;ldquo;LiveScript&amp;rdquo;. However, the Java language was very popular at the time, and it was decided that positioning JavaScript as the &amp;ldquo;younger brother&amp;rdquo; of Java would be useful.&lt;/p&gt;
+&lt;p&gt;Over time, JavaScript has become a completely independent language with its own specification, called ECMAScript, and now has nothing to do with Java.&lt;/p&gt;
+&lt;p&gt;Today JavaScript can be executed not only in the browser, but also on the server or on any other device that has a special program called the JavaScript &amp;ldquo;engine&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;The browser has its own engine, which is sometimes called a &amp;ldquo;JavaScript virtual machine&amp;rdquo;.&lt;/p&gt;
 </description>
     </item>
     
@@ -34,16 +34,16 @@
       <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
       <guid>https://example.com/slides/javascript/</guid>
       <description>&lt;h1 id=&#34;javascript&#34;&gt;JavaScript&lt;/h1&gt;
-&lt;p&gt;Введение&lt;/p&gt;
+&lt;p&gt;Introduction&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;для-чего-был-создан&#34;&gt;Для чего был создан&lt;/h2&gt;
-&lt;p&gt;Изначально JavaScript был создан, чтобы «сделать веб-страницы живыми».&lt;/p&gt;
+&lt;h2 id=&#34;what-was-it-created-for&#34;&gt;What was it created for&lt;/h2&gt;
+&lt;p&gt;JavaScript was originally created to &amp;ldquo;make web pages live.&amp;rdquo;&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;программы-на-этом-языке-называются&#34;&gt;Программы на этом языке называются&lt;/h2&gt;
-&lt;p&gt;скриптами. Они могут встраиваться в HTML и выполняться автоматически при загрузке веб-страницы.&lt;/p&gt;
+&lt;h2 id=&#34;programs-in-this-language-are-called&#34;&gt;Programs in this language are called&lt;/h2&gt;
+&lt;p&gt;scripts. They can be embedded in HTML and executed automatically when a web page loads.&lt;/p&gt;
 &lt;hr&gt;
-&lt;h2 id=&#34;где-javascript-может-выполняться&#34;&gt;Где JavaScript может выполняться?&lt;/h2&gt;
-&lt;p&gt;Сегодня JavaScript может выполняться не только в браузере, но и на сервере или на любом другом устройстве, которое имеет специальную программу, называющуюся «движком» JavaScript.&lt;/p&gt;
+&lt;h2 id=&#34;where-can-javascript-be-executed&#34;&gt;Where can JavaScript be executed?&lt;/h2&gt;
+&lt;p&gt;Today JavaScript can be executed not only in the browser, but also on the server or on any other device that has a special program called the JavaScript &amp;ldquo;engine&amp;rdquo;.&lt;/p&gt;
 &lt;hr&gt;
 </description>
     </item>

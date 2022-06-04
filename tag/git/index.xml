@@ -13,12 +13,12 @@
     </image>
     
     <item>
-      <title>Управление версиями. Git.</title>
+      <title>Version control. Git.</title>
       <link>https://example.com/post/gitvers_control/gitvers_control/</link>
       <pubDate>Sat, 07 May 2022 22:05:56 +0300</pubDate>
       <guid>https://example.com/post/gitvers_control/gitvers_control/</guid>
-      <description>&lt;div style=&#34;text-align:justify&#34;&gt;Система контроля версий: почему это важно? Контроль версий, также известный как управление исходным кодом, — это практика отслеживания изменений программного кода и управления ими. Системы контроля версий (СКВ) — это программные инструменты, помогающие командам разработчиков управлять изменениями в исходном коде с течением времени. В свете усложнения сред разработки они помогают командам разработчиков работать быстрее и эффективнее. СКВ позволяет позже вернуться к любой желаемой вами версии.&lt;/div&gt;
-&lt;div style=&#34;text-align:justify&#34;&gt;Программное обеспечение контроля версий отслеживает все вносимые в код изменения в специальной базе данных. При обнаружении ошибки разработчики могут вернуться назад и выполнить сравнение с более ранними версиями кода для исправления ошибок, сводя к минимуму проблемы для всех участников команды. Практически во всех программных проектах исходный код является сокровищем: это ценный ресурс, который необходимо беречь. Для большинства команд разработчиков программного обеспечения исходный код — это репозиторий бесценных знаний и понимания проблемной области, которые они скрупулезно собирали и совершенствовали. Контроль версий защищает исходный код от катастрофических сбоев, от случайных ухудшений, вызванных человеческим фактором, а также от непредвиденных последствий.&lt;/div&gt;
+      <description>&lt;div style=&#34;text-align:justify&#34;&gt;Version control system: Why is it important? Version control, also known as source code management, is the practice of tracking and managing changes to software code. Version Control Systems (VCS) are software tools that help development teams manage changes to source code over time. In light of the complexity of development environments, they help development teams work faster and more efficiently. SLE allows you to return to any version you want later.&lt;/div&gt;
+&lt;div style=&#34;text-align:justify&#34;&gt;The version control software keeps track of all changes made to the code in a special database. If an error is detected, developers can go back and perform a comparison with earlier versions of the code to fix errors, minimizing problems for all team members. In almost all software projects, the source code is a treasure: it is a valuable resource that needs to be protected. For most software development teams, the source code is a repository of invaluable knowledge and understanding of the problem area, which they scrupulously collected and improved. Version control protects the source code from catastrophic failures, from accidental deterioration caused by the human factor, as well as from unforeseen consequences.&lt;/div&gt;
 </description>
     </item>
     

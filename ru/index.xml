@@ -1,0 +1,606 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Academic</title>
+    <link>https://example.com/ru/</link>
+      <atom:link href="https://example.com/ru/index.xml" rel="self" type="application/rss+xml" />
+    <description>Academic</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>ru</language><lastBuildDate>Sat, 01 Jun 2030 13:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://example.com/media/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_3.png</url>
+      <title>Academic</title>
+      <link>https://example.com/ru/</link>
+    </image>
+    
+    <item>
+      <title>Example Talk</title>
+      <link>https://example.com/ru/talk/example-talk/</link>
+      <pubDate>Sat, 01 Jun 2030 13:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/talk/example-talk/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click on the &lt;strong&gt;Slides&lt;/strong&gt; button above to view the built-in slides feature.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Slides can be added in a few ways:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Create&lt;/strong&gt; slides using Wowchemy&amp;rsquo;s &lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;em&gt;Slides&lt;/em&gt;&lt;/a&gt; feature and link using &lt;code&gt;slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Upload&lt;/strong&gt; an existing slide deck to &lt;code&gt;static/&lt;/code&gt; and link using &lt;code&gt;url_slides&lt;/code&gt; parameter in the front matter of the talk file&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Embed&lt;/strong&gt; your slides (e.g. Google Slides) or presentation video on this page using &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;shortcodes&lt;/a&gt;.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Further event details, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;page elements&lt;/a&gt; such as image galleries, can be added to the body of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Как выучить английский для работы в IT.</title>
+      <link>https://example.com/ru/post/it_learn_en/</link>
+      <pubDate>Sat, 04 Jun 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/ru/post/it_learn_en/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Нач­ни­те с лек­си­ки&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Спе­ци­а­ли­сту из сфер про­грам­ми­ро­ва­ния или ана­ли­ти­ки нуж­но знать огром­ное ко­ли­че­ство спе­ци­а­ли­зи­ро­ван­ной лек­си­ки. И неваж­но, с ка­ким язы­ком вы ра­бо­та­е­те, Python или C++, — тер­ми­нов мно­го и их нуж­но изу­чать. Сами язы­ки про­грам­ми­ро­ва­ния тоже ос­но­ва­ны на ан­глий­ской лек­си­ке.&lt;/p&gt;
+&lt;p&gt;Если по­счи­тать, то сло­варь по те­ма­ти­ке ком­пью­те­ров и про­грам­ми­ро­ва­ния со­дер­жит око­ло 1000-1500 слов. Для при­ме­ра, ба­зо­вый об­щий сло­варь, ко­то­рый поз­во­ля­ет вполне ком­форт­но об­щать­ся на ан­глий­ском, вклю­ча­ет все­го 4000-5000 слов.&lt;/p&gt;
+&lt;p&gt;Изу­чать при­дет­ся мно­го. Но если лек­си­ка, ко­то­рая на­пря­мую свя­за­на с функ­ци­я­ми и пе­ре­мен­ны­ми, за­по­ми­на­ет­ся в про­цес­се на­пи­са­ния сама по себе, то для об­ще­ния с ино­стран­ны­ми кол­ле­га­ми и про­чте­ния гай­дов нуж­но вспом­нить мат­часть.&lt;/p&gt;
+&lt;p&gt;Луч­ше все­го лек­си­ку изу­чать в спе­ци­аль­ных при­ло­же­ни­ях. Вот несколь­ко наи­бо­лее ре­зуль­та­тив­ных и про­стых в ис­поль­зо­ва­нии:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;ED Words&lt;/li&gt;
+&lt;li&gt;Anki&lt;/li&gt;
+&lt;li&gt;Mem­rise&lt;/li&gt;
+&lt;li&gt;Hello Talk&lt;/li&gt;
+&lt;li&gt;Easy Ten&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Вы­би­ра­е­те те­ма­ти­че­ские под­бор­ки слов и до­бав­ля­е­те в сло­варь. Об­ра­тить вни­ма­ние сто­ит на груп­пы слов Net­work­ing, IT slang, Eng­lish for de­vel­op­ers, Eng­lish for dig­i­tal, Hack­ing. Так­же обя­за­тель­но вы­бе­ри­те кол­лек­цию слов для сво­ей спе­ци­аль­но­сти. К при­ме­ру, Eng­lish for sys­tem ad­min­is­tra­tors.&lt;/p&gt;
+&lt;p&gt;30 ми­нут за­ня­тий в при­ло­же­нии в день — и за 3 ме­ся­ца мож­но вы­учить до 800 слов. Это­го вполне хва­тит, что­бы по­ни­мать тех­ни­че­ские тек­сты и раз­го­во­ры со спе­ци­а­ли­ста­ми лю­бой слож­но­сти.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Изу­чи­те по­стро­е­ние слож­ных кон­струк­ций для ТЗ&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Глав­ная слож­ность тех­ни­че­ско­го ан­глий­ско­го — в том, как стро­ят­ся пред­ло­же­ния. В нем есть длин­ные и ме­ста­ми моз­го­лом­ные кон­струк­ции, ко­то­рые слож­но по­нять без со­от­вет­ству­ю­ще­го опы­та. Возь­мем, к при­ме­ру, неболь­шое опи­са­ние од­но­го из ин­стру­мен­тов Mi­crosoft:&lt;/p&gt;
+&lt;p&gt;Cloud se­cu­rity an­a­lyt­ics: Lever­ag­ing big-data, ma­chine-learn­ing, and unique Mi­crosoft op­tics across the Win­dows ecosys­tem, en­ter­prise cloud prod­ucts (such as Of­fice 365), and on­line as­sets, be­hav­ioral sig­nals are trans­lated into in­sights, de­tec­tions, and rec­om­mended re­sponses to ad­vanced threats.&lt;/p&gt;
+&lt;p&gt;Непод­го­тов­лен­но­му че­ло­ве­ку труд­но вос­при­ни­мать длин­ные тек­сты с су­хой по­да­чей и слож­ны­ми обо­ро­та­ми. Но по-дру­го­му пе­ре­дать тех­ни­че­скую ин­фор­ма­цию невоз­мож­но. ТЗ к раз­лич­ным за­да­чам в IT пи­шут имен­но на та­ком ан­глий­ском, по­это­му вы либо за­ра­нее раз­би­ра­е­тесь, либо вно­си­те боль­шое ко­ли­че­ство пра­вок в свою ра­бо­ту из-за недо­по­ни­ма­ния за­да­чи.&lt;/p&gt;
+&lt;p&gt;Сей­час есть огром­ное ко­ли­че­ство кур­сов ан­глий­ско­го, ко­то­рые по­мо­га­ют про­ка­чать имен­но тех­ни­че­ский ан­глий­ский. В боль­шин­стве слу­ча­ев они идут 1-2 ме­ся­ца и рас­ска­зы­ва­ют обо всех ню­ан­сах грам­ма­ти­ки.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;По­сто­ян­но ра­бо­тай­те с жи­вым язы­ком&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Изу­че­ние ан­глий­ско­го язы­ка дает нам на­вык, а не про­сто ста­тич­ное зна­ние, по­это­му как и лю­бой на­вык, его нуж­но по­сто­ян­но тре­ни­ро­вать. Са­мые про­стые спо­со­бы сде­лать это — слу­шать под­ка­сты, чи­тать те­ма­ти­че­ские фо­ру­мы и про­фес­си­о­наль­ные бло­ги.&lt;/p&gt;
+&lt;p&gt;И чем в них но­вее ин­фор­ма­ция, тем луч­ше. Язык по­сто­ян­но ме­ня­ет­ся, и осо­бен­но чув­стви­те­лен к из­ме­не­ни­ям про­фес­си­о­наль­ный сленг. Неко­то­рые фра­зы, тер­ми­ны и обо­зна­че­ния уста­ре­ва­ют, вме­сто них по­яв­ля­ют­ся но­вые. И важ­но это по­сто­ян­но от­сле­жи­вать.&lt;/p&gt;
+&lt;p&gt;Кро­ме того, с по­мо­щью хо­ро­ших под­ка­стов и гай­дов вы смо­же­те улуч­шить не толь­ко свой ан­глий­ский, но и про­фес­си­о­наль­ные на­вы­ки. Мы со­бра­ли неболь­шую под­бор­ку, ко­то­рая в этом по­мо­жет:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Под­ка­сты:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Herd­ing Code&lt;/li&gt;
+&lt;li&gt;Soft­ware En­gi­neer­ing Ra­dio&lt;/li&gt;
+&lt;li&gt;Pro­gram­ming Throw­down&lt;/li&gt;
+&lt;li&gt;Floss Weekly&lt;/li&gt;
+&lt;li&gt;This De­vel­op­ers Life&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Фо­ру­мы:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Stack Over­flow&lt;/li&gt;
+&lt;li&gt;Stack Ex­change&lt;/li&gt;
+&lt;li&gt;De­vShed Fo­rum&lt;/li&gt;
+&lt;li&gt;Red­dit Pro­gram­ming&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Бло­ги:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;DWB&lt;/li&gt;
+&lt;li&gt;Web­De­vBlog&lt;/li&gt;
+&lt;li&gt;Cats Who Code&lt;/li&gt;
+&lt;li&gt;Code Wall&lt;/li&gt;
+&lt;li&gt;Fu­ture Pro­cess­ing&lt;/li&gt;
+&lt;li&gt;Ray Wen­der­lich&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Се­ри­а­лы и филь­мы:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Крем­ни­е­вая до­ли­на (Sil­i­con val­ley)&lt;/li&gt;
+&lt;li&gt;Ми­стер Ро­бот (Mr. Ro­bot)&lt;/li&gt;
+&lt;li&gt;Со­ци­аль­ная сеть (The So­cial Net­work)&lt;/li&gt;
+&lt;li&gt;Чер­ное зер­ка­ло (Black Mir­ror)&lt;/li&gt;
+&lt;li&gt;В поле зре­ния (Per­son of In­ter­est)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Вы­ступ­ле­ния TED Talks:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;То­мас Су­а­рез: 12-лет­ний раз­ра­бот­чик при­ло­же­ний&lt;/li&gt;
+&lt;li&gt;Сер­гей Брин и Лар­ри Пейдж: как за­рож­дал­ся Google&lt;/li&gt;
+&lt;li&gt;Джейн Мак­Го­ни­гал: иг­ро­вая ин­ду­стрия мо­жет сде­лать мир луч­ше&lt;/li&gt;
+&lt;li&gt;Эрик То­пол: бес­про­вод­ное бу­ду­щее ме­ди­ци­ны&lt;/li&gt;
+&lt;li&gt;Ке­вин Кел­ли: как раз­ви­ва­ют­ся тех­но­ло­гии&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Изу­чай­те юмор&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Имен­но юмор. Не от­дель­ные шут­ки и ка­лам­бу­ры, а прин­ци­пы по­стро­е­ния их кон­струк­ций в ан­глий­ском язы­ке. Мо­жет по­ка­зать­ся, что со­вет стран­ный, но он поз­во­ля­ет вам до­бить­ся сра­зу двух це­лей:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Вы изу­ча­е­те язык на глу­бин­ном уровне. Сами прин­ци­пы об­ра­зо­ва­ния шу­ток про­де­мон­стри­ру­ют вам огром­ное ко­ли­че­ство ню­ан­сов язы­ка, о ко­то­рых вы рань­ше не по­до­зре­ва­ли. Это улуч­шит ваше по­ни­ма­ние ан­глий­ско­го в це­лом, что по­ло­жи­тель­но ска­жет­ся на гра­мот­но­сти.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;А если вы уме­е­те смеш­но шу­тить в тему и раз­ря­жать на­пря­же­ние, то бу­де­те же­лан­ным го­стем в лю­бой ко­ман­де. Вам бу­дет про­ще на­хо­дить об­щий язык с ино­стран­ны­ми кол­ле­га­ми и ру­ко­во­ди­те­ля­ми про­ек­тов. Та­кие софт скиллс очень це­нят­ся в ко­ман­де.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;И как бо­нус, по­сле при­сталь­но­го изу­че­ния ан­глий­ско­го юмо­ра вы смо­же­те по­ни­мать огром­ное ко­ли­че­ство ссы­лок и тон­ких шу­ток в филь­мах и се­ри­а­лах. Не про­филь­ный на­вык, ко­неч­но, но лиш­ним не бу­дет. Глав­ное, изу­чать его каж­дый день, без пе­ре­ры­вов и вы­ход­ных. Все­го пол­ча­са за­ня­тий каж­дый день бу­дут в разы эф­фек­тив­нее пяти ча­сов раз в неде­лю.&lt;/p&gt;
+&lt;p&gt;Спе­ци­а­ли­стов из сфе­ры IT, ко­то­рые зна­ют ан­глий­ский на от­лич­ном уровне, на са­мом деле очень мало. Боль­шая часть из них — это те, кто ра­бо­та­ет в меж­ду­на­род­ных ком­па­ни­ях. Но так­же есть сфе­ры, в ко­то­рых зна­ние обыч­но­го ан­глий­ско­го и тех­ни­че­ско­го — клю­че­вой на­вык. На­при­мер, Data Sci­ence. Боль­шин­ство ин­фор­ма­ции про ма­шин­ное обу­че­ние и боль­шие дан­ные есть толь­ко на ан­глий­ском.
+3 со­ве­та от ру­ко­во­ди­те­ля веб-раз­ра­бот­ки ком­па­нии Kee­netic Ев­ге­ния Ко­ры­то­ва, ко­то­рые по­мо­га­ют не толь­ко на­чать изу­че­ние, но и не бро­сить на пол­пу­ти&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Вы­би­рай­те ори­ги­нал&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Я вы­би­раю ори­ги­нал. Пе­ре­вод — это все­гда ин­тер­пре­та­ция и адап­та­ция к язы­ку, на ко­то­ром ты раз­го­ва­ри­ва­ешь, по­это­му часть ин­фор­ма­ции мо­жет по­те­рять­ся или ис­ка­зить­ся.&lt;/p&gt;
+&lt;p&gt;Кино я все­гда смот­рю в ори­ги­на­ле и без суб­тит­ров. Важ­но, что имен­но без суб­тит­ров, ина­че все вре­мя мож­но чи­тать текст и не кон­цен­три­ро­вать­ся на филь­ме. Чаще все­го ты по­ни­ма­ешь смысл из кон­тек­ста ска­зан­но­го. У вас есть ви­зу­аль­ное под­твер­жде­ние — по сю­же­ту и по­ве­де­нию пер­со­на­жей мож­но до­га­дать­ся, о чем они го­во­ри­ли. Пер­вое вре­мя было труд­но, ино­гда ни­че­го не по­нят­но и хо­те­лось все бро­сить. Но, как и дети учат­ся го­во­рить в окру­же­нии язы­ка, так и ты со вре­ме­нем на­чи­на­ешь по­ни­мать. От­сю­да вто­рой прин­цип.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Окру­жи­те себя тем, чем хо­ти­те за­ни­мать­ся&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;И это не толь­ко пси­хо­ло­ги­че­ский трюк, ко­гда кла­дешь ган­те­ли на про­хо­де, что­бы прой­дя мимо вспом­нить и пой­ти за­ни­мать­ся фи­зи­че­ской куль­ту­рой. Я на­стро­ил все свои те­ле­фо­ны, но­ут­бу­ки и про­чую тех­ни­ку на ан­глий­ский язык, для по­ис­ка в ин­тер­не­те поль­зу­юсь Google на ан­глий­ском. Email-под­пис­ка на ан­глий­ском язы­ке, под­ка­сты и т. д. Ко­гда пару раз оши­бешь­ся с опла­той пар­ков­ки из-за непра­виль­но­го по­ни­ма­ния язы­ка, сра­зу вы­учишь все сло­ва.&lt;/p&gt;
+&lt;p&gt;Но что­бы не со­рвать­ся в ка­кой-то мо­мент со­вер­шен­но­го непо­ни­ма­ния, я ис­поль­зую по­мощ­ни­ков. Кро­ме Google Trans­late, я на­стро­ил быст­рый по­иск слов из кон­текст­но­го меню мыши. У Ap­ple есть воз­мож­ность на­стро­ить раз­ные сло­ва­ри во всех сво­их устрой­ствах, что­бы в лю­бом ме­сте ис­кать зна­че­ние сло­ва. Неваж­но, в Telegram или на сай­те, по­чту чи­та­ешь или PDF. Аль­тер­на­ти­вой мо­жет быть рас­ши­ре­ние в бра­у­зер, что­бы непо­нят­ные сло­ва при вы­де­ле­нии пе­ре­во­ди­лись на твой род­ной язык. Его так­же мож­но на­стро­ить.&lt;/p&gt;
+&lt;p&gt;До­пол­ни­тель­но я по­шел учить­ся к англо­го­во­ря­ще­му учи­те­лю. Слож­но, зато еще как мо­ти­ви­ру­ет. Есть еще и раз­го­вор­ные клу­бы. Даже если вы сра­зу не смо­же­те на них го­во­рить из-за стес­не­ния сво­е­го уров­ня, со вре­ме­нем втя­не­тесь. Луч­ше все­го за­хо­дят раз­го­вор­ные клу­бы по ин­те­ре­сам. И это тре­тий прин­цип.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Най­ди­те ин­те­рес&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Я дол­го ис­кал, но по­том по­нял, что мне ре­аль­но ин­те­рес­но, о чем поют и го­во­рят мои ку­ми­ры. Queen, AC/​​DC, Led Zep­pelin, ори­ги­наль­ный го­лос ак­те­ров в кино — осо­бен­но, ко­гда они поют. Ну или по­слу­шать дядю Боба — Un­cle Bob — Robert Mar­tin. Все это как смот­реть ис­ход­ный код биб­лио­те­ки, ко­то­рую ис­поль­зу­ешь в ра­бо­те — ори­ги­нал, и в этом вся суть.&lt;/p&gt;
+&lt;p&gt;В об­щем, я на­шел для себя мно­го ин­те­рес­но­го и моя вы­го­да в том, что имея в ар­се­на­ле два язы­ка, у меня под ру­кой в несколь­ко раз боль­ше ин­фор­ма­ции, му­зы­ки, кино, об­ще­ния. Все это ста­ло до­ступ­нее мне в двой­ном мас­шта­бе.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой пятый пост</title>
+      <link>https://example.com/ru/post/post5/</link>
+      <pubDate>Sat, 04 Jun 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/ru/post/post5/</guid>
+      <description>&lt;p&gt;На этой неделе я написала 2 контрольных работы: по математической логике и по математическому анализу. Также я сдала устный экзамен по английскому языку и выступила в пятницу с одной из последних лекций по математическому анализу. В конце недели я сделала последние лабораторные и последний этап индивидуального проекта. И после всего этого я отдохнула.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой четвёртый пост</title>
+      <link>https://example.com/ru/post/post4/</link>
+      <pubDate>Sat, 28 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/ru/post/post4/</guid>
+      <description>&lt;p&gt;На этой неделе я приходила в себя и готовилась к предстоящим контрольным и экзаментам. Всем, кого они тоже ждут - желаю удачи и успеха!
+Ещё на этой неделе я праздновала бабушкин день рождения.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Языки научного программирования.</title>
+      <link>https://example.com/ru/post/nauch_prog/</link>
+      <pubDate>Sat, 28 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/ru/post/nauch_prog/</guid>
+      <description>&lt;p&gt;Научное программирование — высокоориентированный стиль программирования для научных расчетов. От других видов программирования его отличают предельные корректность и стабильность конечного продукта, строгое разделение научной и интерфейсной частей, индивидуальность алгоритмов, а также преобладание эффективности над универсальностью.&lt;/p&gt;
+&lt;p&gt;Научное программирование лежит в основе любого современного глобального исследования. Все передовые технологии — от квантовых компьютеров до космических программ — были бы невозможны без специалистов в области научного программирования, способных предоставить ученым надежный и точный инструмент для совершения открытий.&lt;/p&gt;
+&lt;p&gt;Ряд отраслей науки непосредственно зависят от уровня развития научного программирования. Так, своего исполнения ждут беспилотный транспорт, «умные» системы управления городским и сельским хозяйством, фондовыми биржами; ждут робототехника, генная инженерия, искусственный интеллект, превосходящий возможности человека.&lt;/p&gt;
+&lt;p&gt;Для научных вычислений чаще всего используют языки C++ и Java. C++ также является одним из самых популярных в мире языков. При помощи программного кода этого языка можно делать различные арифметические операции. Его можно использовать для моделирования и расчётов.&lt;/p&gt;
+&lt;p&gt;Ученые используют различные языки программирования, выбор которых зависит от типа задачи и предпочтений автора. Исторически первым высокоуровневым языком программирования является Fortran, на нем написано много отлаженных библиотек математической статистики и библиотек для решения дифференциальных уравнений, что актуально для экономики и биологии соответственно.&lt;/p&gt;
+&lt;p&gt;Более простым синтаксисом обладает Python, также подходящий для программирования математических вычислений. Язык Python привлекается для обработки данных в математике, физике, экономике, биологии, химии и умеет работать с некоторыми другими «научными» языками: Fortran, C++, C#.&lt;/p&gt;
+&lt;p&gt;В свою очередь C# позволяет программировать на платформе .NET, адаптировать программу к общеязыковой исполняющей среде (CLR) и ускорить разработку в рамках оперативных научных сессий.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://example.com/ru/project/javascript/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/javascript/</guid>
+      <description>&lt;p&gt;Изначально JavaScript был создан, чтобы «сделать веб-страницы живыми».&lt;/p&gt;
+&lt;p&gt;Программы на этом языке называются скриптами. Они могут встраиваться в HTML и выполняться автоматически при загрузке веб-страницы.&lt;/p&gt;
+&lt;p&gt;Скрипты распространяются и выполняются, как простой текст. Им не нужна специальная подготовка или компиляция для запуска.&lt;/p&gt;
+&lt;p&gt;Это отличает JavaScript от другого языка – Java.&lt;/p&gt;
+&lt;p&gt;Когда JavaScript создавался, у него было другое имя – «LiveScript». Однако, язык Java был очень популярен в то время, и было решено, что позиционирование JavaScript как «младшего брата» Java будет полезно.&lt;/p&gt;
+&lt;p&gt;Со временем JavaScript стал полностью независимым языком со своей собственной спецификацией, называющейся ECMAScript, и сейчас не имеет никакого отношения к Java.&lt;/p&gt;
+&lt;p&gt;Сегодня JavaScript может выполняться не только в браузере, но и на сервере или на любом другом устройстве, которое имеет специальную программу, называющуюся «движком» JavaScript.&lt;/p&gt;
+&lt;p&gt;У браузера есть собственный движок, который иногда называют «виртуальная машина JavaScript».&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>JavaScript</title>
+      <link>https://example.com/ru/slides/javascript/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/slides/javascript/</guid>
+      <description>&lt;h1 id=&#34;javascript&#34;&gt;JavaScript&lt;/h1&gt;
+&lt;p&gt;Введение&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;для-чего-был-создан&#34;&gt;Для чего был создан&lt;/h2&gt;
+&lt;p&gt;Изначально JavaScript был создан, чтобы «сделать веб-страницы живыми».&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;программы-на-этом-языке-называются&#34;&gt;Программы на этом языке называются&lt;/h2&gt;
+&lt;p&gt;скриптами. Они могут встраиваться в HTML и выполняться автоматически при загрузке веб-страницы.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;где-javascript-может-выполняться&#34;&gt;Где JavaScript может выполняться?&lt;/h2&gt;
+&lt;p&gt;Сегодня JavaScript может выполняться не только в браузере, но и на сервере или на любом другом устройстве, которое имеет специальную программу, называющуюся «движком» JavaScript.&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пргораммирование</title>
+      <link>https://example.com/ru/project/programming/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/programming/</guid>
+      <description>&lt;p&gt;Сегодня слово «Программирование» можно увидеть / услышать, как в какой-нибудь вирусной рекламе в социальной сети, так и в литературном или кинематографическом произведении. Однако что такое программирование и кто такие программисты? Не мудрствуя лукаво, можно поступить как матерый кодер и загуглить новое слово.&lt;/p&gt;
+&lt;p&gt;Согласно многочисленным определениям, программирование — это процесс создания компьютерных программ. Расшифровать это определение можно следующим образом. Программирование есть ничто иное, как объяснение машине что, в каком виде и как нужно получить пользователю. То есть это своеобразное искусство перевода пожеланий человека на язык машины.&lt;/p&gt;
+&lt;p&gt;Основная идея заключается в том, чтобы составить алгоритм и перевести его на язык программирования. Гуру разработки часто рекомендуют начать разработку программы с ответа на вопрос: «Можно ли реализовать эту задачу программно?». К примеру, даже сегодня мы не можем заставить компьютер предсказать, что будет через несколько дней. И пусть этот пример не совсем корректен, потому как данная задача невыполнима в принципе. Однако, если сузить постановку задачи до предсказания поведения какой-нибудь валюты на бирже — подобная задача решается при помощи достаточного сложного алгоритма и большой базы экспериментальных данных.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Пргораммирование</title>
+      <link>https://example.com/ru/slides/programming/</link>
+      <pubDate>Sat, 28 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/slides/programming/</guid>
+      <description>&lt;h1 id=&#34;пргораммирование&#34;&gt;Пргораммирование&lt;/h1&gt;
+&lt;p&gt;Введение&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;слово-программирование&#34;&gt;Слово «Программирование»&lt;/h2&gt;
+&lt;p&gt;Сегодня слово «Программирование» можно увидеть / услышать, как в какой-нибудь вирусной рекламе в социальной сети, так и в литературном или кинематографическом произведении. Однако что такое программирование и кто такие программисты? Не мудрствуя лукаво, можно поступить как матерый кодер и загуглить новое слово.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;программирование--это&#34;&gt;Программирование — это&lt;/h2&gt;
+&lt;p&gt;процесс создания компьютерных программ. Расшифровать это определение можно следующим образом. Программирование есть ничто иное, как объяснение машине что, в каком виде и как нужно получить пользователю. То есть это своеобразное искусство перевода пожеланий человека на язык машины.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;основная-идея&#34;&gt;Основная идея&lt;/h2&gt;
+&lt;p&gt;заключается в том, чтобы составить алгоритм и перевести его на язык программирования. Гуру разработки часто рекомендуют начать разработку программы с ответа на вопрос: «Можно ли реализовать эту задачу программно?».&lt;/p&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой третий пост</title>
+      <link>https://example.com/ru/post/post3/</link>
+      <pubDate>Sat, 21 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/ru/post/post3/</guid>
+      <description>&lt;p&gt;На этой неделе я написала 2 контрольных работы: по математической логике и по математическому анализу. А в конце недели я отсыпалась. На занятиях по английскому репетировали устный экзамен, а в субботу написали тест по 5 юниту.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Оформление отчёта.</title>
+      <link>https://example.com/ru/post/report_fixes/</link>
+      <pubDate>Sat, 21 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/ru/post/report_fixes/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Структура отчёта&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Согласно ГОСТ 7.32-2001,любая научно-исследовательская работа должна обязательно
+содержать следующие элементы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;титульный лист;&lt;/li&gt;
+&lt;li&gt;реферат;&lt;/li&gt;
+&lt;li&gt;введение;&lt;/li&gt;
+&lt;li&gt;основную часть;&lt;/li&gt;
+&lt;li&gt;заключение.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Также ГОСТ рекомендует включить в работу итакие элементы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;список исполнителей;&lt;/li&gt;
+&lt;li&gt;содержание;&lt;/li&gt;
+&lt;li&gt;нормативные ссылки;&lt;/li&gt;
+&lt;li&gt;определения;&lt;/li&gt;
+&lt;li&gt;обозначения и сокращения;&lt;/li&gt;
+&lt;li&gt;список использованных источников;&lt;/li&gt;
+&lt;li&gt;приложения.
+Если вы проводите сложную работу,выполняемую в несколько этапов,то вам может
+понадобиться включить в работу часть или все элементы второго списка.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Содержание основных элементов отчёта&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Титульный лист.Первыйлистработыоформляетсястрогопообразцу,который обычно приводится в методических пособиях по вашему предмету.В нем не простотребуется указать такие элементы, как название образовательного учреждения, вид работы и сведения об исполнителе,но и расположитьих в строгом соответствии со стандартами.&lt;/li&gt;
+&lt;li&gt;Реферат.Реферат фактически является кратким представлением всего вашего отчета и содержит ряд статистических сведений. В нем нужно указать количество частей, страниц работы,иллюстраций,приложений,таблиц,использованных литературных источников и приложений. Здесь же приводится перечень ключевых слов работы и собственнотекст реферата.Последний подразумевает основные элементы работы от поставленных целей до результатов и рекомендаций по их внедрению.В практике вузов в отчеты по лабораторным работам реферат обычно не включают.&lt;/li&gt;
+&lt;li&gt;Введение. Во введении типовой лабораторной работы обычно прописывают цели проводимого исследования и задачи,выполнение которых поможетдостичь поставленных целей. В то же время существуют работы, в которых студенты становятся настоящими первооткрывателями.Приходилосьли вам хотя бы однажды испытывать чувство крайнего любопытства и нетерпения при проведении лабораторной работы? Ощущать,что буквально через пару минут вы найдете ответна вопрос,на который
+еще никто и никогда не находил ответа? Именно для таких исследований пишется развернутое введение с доказательством актуальности и новизны изучаемой темы.Чтобы действительно провести исследование втой области,в которой,как говорится,еще не ступала нога человека,во введении вам понадобится привести оценку современного состояния рассматриваемой проблемы и обосновать необходимость ее решения.&lt;/li&gt;
+&lt;li&gt;Основная часть. Так как в разных вузах и в разных дисциплинах существуют свои тонкости проведения лабораторных работ, содержание основной части подробно описывают в соответствующих методичках. Важно,чтобы в этом разделе работы была отражена ее суть,описана методика и результаты проделанной работы.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;В основной части прописывают следующие элементы:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;цели проводимого исследования;&lt;/li&gt;
+&lt;li&gt;задачи,выполнение которых поможетдостичь поставленных целей;&lt;/li&gt;
+&lt;li&gt;ход работы,в котором описываются выполненные действия;&lt;/li&gt;
+&lt;li&gt;прочие разделы,предусмотренные методическими материалами по изучаемой дисциплине.&lt;/li&gt;
+&lt;li&gt;Заключение.В этой части работы вам потребуется сделать выводы по полученным в ходе лабораторной работы результатам.Для этого оцените,насколько полно выполнены поставленные задачи.В сложных работах могутприсутствовать и другие элементы, например, рекомендации для дальнейшего применения результатов проведённой работы.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Легковесные языки разметки.</title>
+      <link>https://example.com/ru/post/langs/</link>
+      <pubDate>Sat, 14 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/ru/post/langs/</guid>
+      <description>&lt;ol&gt;
+&lt;li&gt;Общая информация&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Предназначены для простого и быстрого добавления форматирования в текстовые данные.&lt;/li&gt;
+&lt;li&gt;Особенности:
+&lt;ul&gt;
+&lt;li&gt;Минимум функций.&lt;/li&gt;
+&lt;li&gt;Небольшой набор поддерживаемых тегов.&lt;/li&gt;
+&lt;li&gt;Легки в освоении.&lt;/li&gt;
+&lt;li&gt;Исходный текст на таком языке читается с такой же лёгкостью, как и готовый документ.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;Представители&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;Markdown&lt;/li&gt;
+&lt;li&gt;Org-mode&lt;/li&gt;
+&lt;li&gt;BBCode&lt;/li&gt;
+&lt;li&gt;reStructuredText&lt;/li&gt;
+&lt;li&gt;Textile&lt;/li&gt;
+&lt;li&gt;Вики-разметка&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;Легковесные языки для записи математических выражений&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;AsciiMath&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой второй пост</title>
+      <link>https://example.com/ru/post/post2/</link>
+      <pubDate>Sat, 14 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/ru/post/post2/</guid>
+      <description>&lt;p&gt;На этой неделе я обчиталась, поучилась и поделала домашние работы по университетским предметам, как и на прошлой неделе.
+Отпраздновала мамин день рождения, сделала ей открытку впервые в формате графического файла.
+Открыла много нового для себя из книги. Это касалось работы нашего мозга, наших убеждений и того, как на них можно влиять.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Мой первый пост</title>
+      <link>https://example.com/ru/post/post1/post1/</link>
+      <pubDate>Sat, 07 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/ru/post/post1/post1/</guid>
+      <description>&lt;p&gt;На этой неделе я подготовила и успешно рассказала доклад по ОС, обчиталась, поучилась и поделала домашние работы по университетским предметам, попробовала вникать в матанализ (даже получилось), прочитала лекцию по матанализу для своего направления.&lt;/p&gt;
+&lt;p&gt;В начале недели из-за праздников состояние было очень ленивым, но под конец пришлось собраться в кучку и сделать всё необходимое.&lt;/p&gt;
+&lt;p&gt;Очень многое обсудила с близкими мне людьми и пришла к выводу о том, что крайне важно будет попробовать воссоздать своё генеалогическое древо с максимально обширной информацией по своим родственникам. Пусть на это может уйти достаточно много времени, сделать это никогда не будет поздно. Это полезно для большего понимания себя, своих близких, своего и их мировоззрения. Не менее полезно было бы узнать истории жизней близких мне людей, с которыми я уже очень давно (и недавно тоже).&lt;/p&gt;
+&lt;p&gt;Не удалось достаточно времени уделить общению с родными. На выходных и праздниках это можно будет восполнить и провести время в приятной компании&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Управление версиями. Git.</title>
+      <link>https://example.com/ru/post/gitvers_control/gitvers_control/</link>
+      <pubDate>Sat, 07 May 2022 22:05:56 +0300</pubDate>
+      <guid>https://example.com/ru/post/gitvers_control/gitvers_control/</guid>
+      <description>&lt;div style=&#34;text-align:justify&#34;&gt;Система контроля версий: почему это важно? Контроль версий, также известный как управление исходным кодом, — это практика отслеживания изменений программного кода и управления ими. Системы контроля версий (СКВ) — это программные инструменты, помогающие командам разработчиков управлять изменениями в исходном коде с течением времени. В свете усложнения сред разработки они помогают командам разработчиков работать быстрее и эффективнее. СКВ позволяет позже вернуться к любой желаемой вами версии.&lt;/div&gt;
+&lt;div style=&#34;text-align:justify&#34;&gt;Программное обеспечение контроля версий отслеживает все вносимые в код изменения в специальной базе данных. При обнаружении ошибки разработчики могут вернуться назад и выполнить сравнение с более ранними версиями кода для исправления ошибок, сводя к минимуму проблемы для всех участников команды. Практически во всех программных проектах исходный код является сокровищем: это ценный ресурс, который необходимо беречь. Для большинства команд разработчиков программного обеспечения исходный код — это репозиторий бесценных знаний и понимания проблемной области, которые они скрупулезно собирали и совершенствовали. Контроль версий защищает исходный код от катастрофических сбоев, от случайных ухудшений, вызванных человеческим фактором, а также от непредвиденных последствий.&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Welcome to Wowchemy, the website builder for Hugo</title>
+      <link>https://example.com/ru/post/getting-started/</link>
+      <pubDate>Sun, 13 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/post/getting-started/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;The Wowchemy website builder for Hugo, along with its starter templates, is designed for professional creators, educators, and teams/organizations - although it can be used to create any kind of site&lt;/li&gt;
+&lt;li&gt;The template can be modified and customised to suit your needs. It&amp;rsquo;s a good platform for anyone looking to take control of their data and online identity whilst having the convenience to start off with a &lt;strong&gt;no-code solution (write in Markdown and customize with YAML parameters)&lt;/strong&gt; and having &lt;strong&gt;flexibility to later add even deeper personalization with HTML and CSS&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;You can work with all your favourite tools and apps with hundreds of plugins and integrations to speed up your workflows, interact with your readers, and much more&lt;/li&gt;
+&lt;/ol&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+&lt;figure  id=&#34;figure-the-template-is-mobile-first-with-a-responsive-design-to-ensure-that-your-site-looks-stunning-on-every-device&#34;&gt;
+  &lt;div class=&#34;d-flex justify-content-center&#34;&gt;
+    &lt;div class=&#34;w-100&#34; &gt;&lt;img src=&#34;https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-modules/master/academic.png&#34; alt=&#34;The template is mobile first with a responsive design to ensure that your site looks stunning on every device.&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+  &lt;/div&gt;&lt;figcaption&gt;
+      The template is mobile first with a responsive design to ensure that your site looks stunning on every device.
+    &lt;/figcaption&gt;&lt;/figure&gt;
+&lt;h2 id=&#34;get-started&#34;&gt;Get Started&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;👉 &lt;a href=&#34;https://wowchemy.com/templates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Create a new site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📚 &lt;a href=&#34;https://wowchemy.com/docs/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Personalize your site&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💬 &lt;a href=&#34;https://discord.gg/z8wNYzb&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Chat with the &lt;strong&gt;Wowchemy community&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&#34;https://discourse.gohugo.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Hugo community&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🐦 Twitter: &lt;a href=&#34;https://twitter.com/wowchemy&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@wowchemy&lt;/a&gt; &lt;a href=&#34;https://twitter.com/GeorgeCushen&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@GeorgeCushen&lt;/a&gt; &lt;a href=&#34;https://twitter.com/search?q=%23MadeWithWowchemy&amp;amp;src=typed_query&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;#MadeWithWowchemy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💡 &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/issues&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Request a &lt;strong&gt;feature&lt;/strong&gt; or report a &lt;strong&gt;bug&lt;/strong&gt; for &lt;em&gt;Wowchemy&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;⬆️ &lt;strong&gt;Updating Wowchemy?&lt;/strong&gt; View the &lt;a href=&#34;https://wowchemy.com/docs/hugo-tutorials/update/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Update Tutorial&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/updates/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Release Notes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;crowd-funded-open-source-software&#34;&gt;Crowd-funded open-source software&lt;/h2&gt;
+&lt;p&gt;To help us develop this template and software sustainably under the MIT license, we ask all individuals and businesses that use it to help support its ongoing maintenance and development via sponsorship.&lt;/p&gt;
+&lt;h3 id=&#34;-click-here-to-become-a-sponsor-and-help-support-wowchemys-future-httpswowchemycomplans&#34;&gt;&lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;❤️ Click here to become a sponsor and help support Wowchemy&amp;rsquo;s future ❤️&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;As a token of appreciation for sponsoring, you can &lt;strong&gt;unlock &lt;a href=&#34;https://wowchemy.com/plans/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;these&lt;/a&gt; awesome rewards and extra features 🦄✨&lt;/strong&gt;&lt;/p&gt;
+&lt;h2 id=&#34;ecosystem&#34;&gt;Ecosystem&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/wowchemy/hugo-academic-cli&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Hugo Academic CLI&lt;/a&gt;:&lt;/strong&gt; Automatically import publications from BibTeX&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;inspiration&#34;&gt;Inspiration&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Check out the latest &lt;strong&gt;demo&lt;/strong&gt;&lt;/a&gt; of what you&amp;rsquo;ll get in less than 10 minutes, or &lt;a href=&#34;https://wowchemy.com/user-stories/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;view the &lt;strong&gt;showcase&lt;/strong&gt;&lt;/a&gt; of personal, project, and business sites.&lt;/p&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Page builder&lt;/strong&gt; - Create &lt;em&gt;anything&lt;/em&gt; with &lt;a href=&#34;https://wowchemy.com/docs/page-builder/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;widgets&lt;/strong&gt;&lt;/a&gt; and &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;elements&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Edit any type of content&lt;/strong&gt; - Blog posts, publications, talks, slides, projects, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Create content&lt;/strong&gt; in &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Markdown&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&#34;https://wowchemy.com/docs/import/jupyter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;Jupyter&lt;/strong&gt;&lt;/a&gt;, or &lt;a href=&#34;https://wowchemy.com/docs/install-locally/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;RStudio&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Plugin System&lt;/strong&gt; - Fully customizable &lt;a href=&#34;https://wowchemy.com/docs/customization/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;strong&gt;color&lt;/strong&gt; and &lt;strong&gt;font themes&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Display Code and Math&lt;/strong&gt; - Code highlighting and &lt;a href=&#34;https://en.wikibooks.org/wiki/LaTeX/Mathematics&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;LaTeX math&lt;/a&gt; supported&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Integrations&lt;/strong&gt; - &lt;a href=&#34;https://analytics.google.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Google Analytics&lt;/a&gt;, &lt;a href=&#34;https://disqus.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Disqus commenting&lt;/a&gt;, Maps, Contact Forms, and more!&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Beautiful Site&lt;/strong&gt; - Simple and refreshing one page design&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Industry-Leading SEO&lt;/strong&gt; - Help get your website found on search engines and social media&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Media Galleries&lt;/strong&gt; - Display your images and videos with captions in a customizable gallery&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Mobile Friendly&lt;/strong&gt; - Look amazing on every screen with a mobile friendly version of your site&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-language&lt;/strong&gt; - 34+ language packs including English, 中文, and Português&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Multi-user&lt;/strong&gt; - Each author gets their own profile page&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Privacy Pack&lt;/strong&gt; - Assists with GDPR&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Stand Out&lt;/strong&gt; - Bring your site to life with animation, parallax backgrounds, and scroll effects&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;One-Click Deployment&lt;/strong&gt; - No servers. No databases. Only files.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;p&gt;Wowchemy and its templates come with &lt;strong&gt;automatic day (light) and night (dark) mode&lt;/strong&gt; built-in. Alternatively, visitors can choose their preferred mode - click the moon icon in the top right of the &lt;a href=&#34;https://academic-demo.netlify.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Demo&lt;/a&gt; to see it in action! Day/night mode can also be disabled by the site admin in &lt;code&gt;params.toml&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/customization&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Choose a stunning &lt;strong&gt;theme&lt;/strong&gt; and &lt;strong&gt;font&lt;/strong&gt;&lt;/a&gt; for your site. Themes are fully customizable.&lt;/p&gt;
+&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;
+&lt;p&gt;Copyright 2016-present &lt;a href=&#34;https://georgecushen.com&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;George Cushen&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Released under the &lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/blob/master/LICENSE.md&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;MIT&lt;/a&gt; license.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Slides</title>
+      <link>https://example.com/ru/slides/example/</link>
+      <pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/slides/example/</guid>
+      <description>&lt;h1 id=&#34;create-slides-in-markdown-with-wowchemy&#34;&gt;Create slides in Markdown with Wowchemy&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Wowchemy&lt;/a&gt; | &lt;a href=&#34;https://owchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Efficiently write slides in Markdown&lt;/li&gt;
+&lt;li&gt;3-in-1: Create, Present, and Publish your slides&lt;/li&gt;
+&lt;li&gt;Supports speaker notes&lt;/li&gt;
+&lt;li&gt;Mobile friendly slides&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;controls&#34;&gt;Controls&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Next: &lt;code&gt;Right Arrow&lt;/code&gt; or &lt;code&gt;Space&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Previous: &lt;code&gt;Left Arrow&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Start: &lt;code&gt;Home&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Finish: &lt;code&gt;End&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Overview: &lt;code&gt;Esc&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Speaker notes: &lt;code&gt;S&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Fullscreen: &lt;code&gt;F&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Zoom: &lt;code&gt;Alt + Click&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/hakimel/reveal.js#pdf-export&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PDF Export&lt;/a&gt;: &lt;code&gt;E&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;code-highlighting&#34;&gt;Code Highlighting&lt;/h2&gt;
+&lt;p&gt;Inline code: &lt;code&gt;variable&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Code block:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-python&#34; data-lang=&#34;python&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;if&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;porridge&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;==&lt;/span&gt; &lt;span class=&#34;s2&#34;&gt;&amp;#34;blueberry&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;nb&#34;&gt;print&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;s2&#34;&gt;&amp;#34;Eating...&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;math&#34;&gt;Math&lt;/h2&gt;
+&lt;p&gt;In-line math: $x + y = z$&lt;/p&gt;
+&lt;p&gt;Block math:&lt;/p&gt;
+&lt;p&gt;$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;fragments&#34;&gt;Fragments&lt;/h2&gt;
+&lt;p&gt;Make content appear incrementally&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;{{% fragment %}} One {{% /fragment %}}
+{{% fragment %}} **Two** {{% /fragment %}}
+{{% fragment %}} Three {{% /fragment %}}
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Press &lt;code&gt;Space&lt;/code&gt; to play!&lt;/p&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  One
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  &lt;strong&gt;Two&lt;/strong&gt;
+&lt;/span&gt;
+&lt;span class=&#34;fragment &#34; &gt;
+  Three
+&lt;/span&gt;
+&lt;hr&gt;
+&lt;p&gt;A fragment can accept two optional parameters:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;class&lt;/code&gt;: use a custom style (requires definition in custom CSS)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;weight&lt;/code&gt;: sets the order in which a fragment appears&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;speaker-notes&#34;&gt;Speaker Notes&lt;/h2&gt;
+&lt;p&gt;Add speaker notes to your presentation&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{% speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Only the speaker can read these notes
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;-&lt;/span&gt; Press &lt;span class=&#34;sb&#34;&gt;`S`&lt;/span&gt; key to view
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  {{% /speaker_note %}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Press the &lt;code&gt;S&lt;/code&gt; key to view the speaker notes!&lt;/p&gt;
+&lt;aside class=&#34;notes&#34;&gt;
+  &lt;ul&gt;
+&lt;li&gt;Only the speaker can read these notes&lt;/li&gt;
+&lt;li&gt;Press &lt;code&gt;S&lt;/code&gt; key to view&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;/aside&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;themes&#34;&gt;Themes&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;black: Black background, white text, blue links (default)&lt;/li&gt;
+&lt;li&gt;white: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;league: Gray background, white text, blue links&lt;/li&gt;
+&lt;li&gt;beige: Beige background, dark text, brown links&lt;/li&gt;
+&lt;li&gt;sky: Blue background, thin dark text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;ul&gt;
+&lt;li&gt;night: Black background, thick white text, orange links&lt;/li&gt;
+&lt;li&gt;serif: Cappuccino background, gray text, brown links&lt;/li&gt;
+&lt;li&gt;simple: White background, black text, blue links&lt;/li&gt;
+&lt;li&gt;solarized: Cream-colored background, dark green text, blue links&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+
+&lt;section data-noprocess data-shortcode-slide
+  
+      
+      data-background-image=&#34;/media/boards.jpg&#34;
+  &gt;
+
+&lt;h2 id=&#34;custom-slide&#34;&gt;Custom Slide&lt;/h2&gt;
+&lt;p&gt;Customize the slide style and background&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-markdown&#34; data-lang=&#34;markdown&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-image&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;/media/boards.jpg&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;background-color&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;#0000FF&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;{{&lt;span class=&#34;p&#34;&gt;&amp;lt;&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;slide&lt;/span&gt; &lt;span class=&#34;na&#34;&gt;class&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;s&#34;&gt;&amp;#34;my-style&amp;#34;&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;&amp;gt;&lt;/span&gt;}}
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h2 id=&#34;custom-css-example&#34;&gt;Custom CSS Example&lt;/h2&gt;
+&lt;p&gt;Let&amp;rsquo;s make headers navy colored.&lt;/p&gt;
+&lt;p&gt;Create &lt;code&gt;assets/css/reveal_custom.css&lt;/code&gt; with:&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-css&#34; data-lang=&#34;css&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h1&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h2&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;,&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;.&lt;/span&gt;&lt;span class=&#34;nc&#34;&gt;reveal&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;section&lt;/span&gt; &lt;span class=&#34;nt&#34;&gt;h3&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;  &lt;span class=&#34;k&#34;&gt;color&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;:&lt;/span&gt; &lt;span class=&#34;kc&#34;&gt;navy&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;hr&gt;
+&lt;h1 id=&#34;questions&#34;&gt;Questions?&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://github.com/wowchemy/wowchemy-hugo-modules/discussions&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Ask&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://wowchemy.com/docs/managing-content/#create-slides&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Documentation&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example Project</title>
+      <link>https://example.com/ru/project/example/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/project/example/</guid>
+      <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.&lt;/p&gt;
+&lt;p&gt;Nullam vel molestie justo. Curabitur vitae efficitur leo. In hac habitasse platea dictumst. Sed pulvinar mauris dui, eget varius purus congue ac. Nulla euismod, lorem vel elementum dapibus, nunc justo porta mi, sed tempus est est vel tellus. Nam et enim eleifend, laoreet sem sit amet, elementum sem. Morbi ut leo congue, maximus velit ut, finibus arcu. In et libero cursus, rutrum risus non, molestie leo. Nullam congue quam et volutpat malesuada. Sed risus tortor, pulvinar et dictum nec, sodales non mi. Phasellus lacinia commodo laoreet. Nam mollis, erat in feugiat consectetur, purus eros egestas tellus, in auctor urna odio at nibh. Mauris imperdiet nisi ac magna convallis, at rhoncus ligula cursus.&lt;/p&gt;
+&lt;p&gt;Cras aliquam rhoncus ipsum, in hendrerit nunc mattis vitae. Duis vitae efficitur metus, ac tempus leo. Cras nec fringilla lacus. Quisque sit amet risus at ipsum pharetra commodo. Sed aliquam mauris at consequat eleifend. Praesent porta, augue sed viverra bibendum, neque ante euismod ante, in vehicula justo lorem ac eros. Suspendisse augue libero, venenatis eget tincidunt ut, malesuada at lorem. Donec vitae bibendum arcu. Aenean maximus nulla non pretium iaculis. Quisque imperdiet, nulla in pulvinar aliquet, velit quam ultrices quam, sit amet fringilla leo sem vel nunc. Mauris in lacinia lacus.&lt;/p&gt;
+&lt;p&gt;Suspendisse a tincidunt lacus. Curabitur at urna sagittis, dictum ante sit amet, euismod magna. Sed rutrum massa id tortor commodo, vitae elementum turpis tempus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean purus turpis, venenatis a ullamcorper nec, tincidunt et massa. Integer posuere quam rutrum arcu vehicula imperdiet. Mauris ullamcorper quam vitae purus congue, quis euismod magna eleifend. Vestibulum semper vel augue eget tincidunt. Fusce eget justo sodales, dapibus odio eu, ultrices lorem. Duis condimentum lorem id eros commodo, in facilisis mauris scelerisque. Morbi sed auctor leo. Nullam volutpat a lacus quis pharetra. Nulla congue rutrum magna a ornare.&lt;/p&gt;
+&lt;p&gt;Aliquam in turpis accumsan, malesuada nibh ut, hendrerit justo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Quisque sed erat nec justo posuere suscipit. Donec ut efficitur arcu, in malesuada neque. Nunc dignissim nisl massa, id vulputate nunc pretium nec. Quisque eget urna in risus suscipit ultricies. Pellentesque odio odio, tincidunt in eleifend sed, posuere a diam. Nam gravida nisl convallis semper elementum. Morbi vitae felis faucibus, vulputate orci placerat, aliquet nisi. Aliquam erat volutpat. Maecenas sagittis pulvinar purus, sed porta quam laoreet at.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>An example conference paper</title>
+      <link>https://example.com/ru/publication/example/</link>
+      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/publication/example/</guid>
+      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;div class=&#34;alert alert-note&#34;&gt;
+  &lt;div&gt;
+    Create your slides in Markdown - click the &lt;em&gt;Slides&lt;/em&gt; button to check out the example.
+  &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code, math, and images&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://example.com/ru/admin/config.yml</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://example.com/ru/admin/config.yml</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
